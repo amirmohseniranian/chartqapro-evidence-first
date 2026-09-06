@@ -1,0 +1,1950 @@
+Question Type,Year,Answer,prediction,score
+Factoid,['NO'],['299'],59,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['82.9'],[94.7],0.0
+Multi Choice,['NO'],['C'],c,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['04/25'],5/3,0.0
+Factoid,['NO'],['10%'],-30,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Unanswerable'],0.3,0.0
+Factoid,['NO'],['20.2%'],20.2%,1.0
+Factoid,['NO'],['65%'],65,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],-65%,0.0
+Hypothetical,['NO'],['Lower'],Higher,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Factoid,['NO'],['Unanswerable'],5.6%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Construction'],Construction,1.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['15.92'],-0.38,0.0
+Hypothetical,['NO'],['1.4'],[13.6],0.0
+Multi Choice,['NO'],['C'],b,0.0
+Factoid,['NO'],['1970s'],[1970s],0.7142857142857143
+Factoid,['NO'],['Unanswerable'],423,0.0
+Factoid,['NO'],['5200'],unanswerable,0.0
+Factoid,['YES'],['2009'],2013,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Apr'],April,0.6
+Factoid,['YES'],['2019'],2019,1.0
+Factoid,['NO'],['52'],50,1.0
+Factoid,['NO'],['15-16'],2015-16,0.7142857142857143
+Factoid,['NO'],['8%'],38,0.0
+Factoid,['NO'],['5 years'],5,0.0
+Factoid,['NO'],['1.9'],11.9,0.0
+Factoid,['NO'],['2.68'],396.7,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Conversational,['NO'],"['120%', 'Microsoft']",Microsoft,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Conversational,['NO'],"['82%', '27.3']",20,0.0
+Conversational,['NO'],"['120%', 'Microsoft', '45.6', '1.1%', '9']",8,0.0
+Conversational,['NO'],"['82%', '27.3', 'May', 'Consumer Direct Desktop', '20%']",unanswerable,0.0
+Factoid,['NO'],['Teenagers'],Teenagers,1.0
+Multi Choice,['NO'],['Unanswerable'],b,0.0
+Factoid,['NO'],['Unanswerable'],71,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['40'],40,1.0
+Factoid,['NO'],['25%'],unanswerable,0.0
+Conversational,['NO'],"['Venezuela', 'Saudi Arabia']",Saudi Arabia,1.0
+Conversational,['NO'],"['Venezuela', 'Saudi Arabia', '2.8%', 'No']",Yes,0.0
+Factoid,['NO'],['-556.39'],-539.89,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['perth'],Perth,1.0
+Factoid,['NO'],['Religious liberty'],Religious liberty,1.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['Unanswerable'],$86.65,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['African American'],Asian American,0.8125
+Hypothetical,['NO'],['15.45'],[15.15],1.0
+Factoid,['NO'],['Gold'],Gold,1.0
+Factoid,['YES'],['2018'],2018,1.0
+Conversational,['NO'],"['3', 'Euro Area']",Emerging markets (ex-China),0.0
+Conversational,['NO'],"['3', 'Euro Area', 'U.S', 'unanswerable', 'unanswerable']",Emerging markets (ex-China),0.0
+Factoid,['NO'],['4'],3,0.0
+Factoid,['NO'],['8th'],Column 8,0.0
+Factoid,['YES'],['2012'],2013,0.0
+Hypothetical,['YES'],['2012'],2013,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],50 Gt CO₂e,0.0
+Factoid,['NO'],['−246'],-190,0.0
+Conversational,['NO'],"['39', '342']",-587,0.0
+Factoid,['NO'],['481'],43,0.0
+Conversational,['NO'],"['39', '342', 'Unanswerable', 'Yes', 'Unanswerable']",unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],"143,470",0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['60.33'],56.33%,0.0
+Factoid,['NO'],['March'],April,0.0
+Conversational,['NO'],"['4000', 'decrease']",decrease,1.0
+Conversational,['NO'],"['4000', 'decrease', '1000', '14.28%', '50%']",-20%,0.0
+Factoid,['YES'],['2011'],2008,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],33%,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['28.2 million'],[28.2],0.0
+Factoid,['YES'],['2001'],'00,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['YES'],['2016'],2016,1.0
+Conversational,['NO'],"['Infographic', 'E-learning material', '7']",3,0.0
+Factoid,['NO'],['18'],$553m,0.0
+Factoid,['NO'],['62%'],68,0.0
+Factoid,['NO'],['18.33'],"['18', '17']",0.5
+Factoid,['NO'],['1.6'],3.4,0.0
+Conversational,['NO'],"['Yes', '0.016', '0.002']",0.3,0.0
+Factoid,['NO'],['4.11'],3.97 inches,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['1.9412'],375%,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Conversational,['NO'],"['U.S', '59%']",59,1.0
+Factoid,['NO'],['26.67%'],unanswerable,0.0
+Conversational,['NO'],"['U.S', '59%', 'Unanswerable', 'Unanswerable']",0.09,0.0
+Factoid,['NO'],"['Q3,2012']",unanswerable,0.0
+Factoid,['YES'],['2010'],2005,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Unanswerable'],37.48,0.0
+Factoid,['NO'],['US'],Japan,0.0
+Conversational,['NO'],"['US', 'US', 'US, Canada']",Japan and China,0.0
+Conversational,['NO'],"['US', 'US', 'US, Canada', 'Japan', 'US, UK, Canada', 'Yes']",Yes,1.0
+Factoid,['YES'],['1992'],2018,0.0
+Factoid,['NO'],['5'],6,0.0
+Factoid,['NO'],['Unanswerable'],58693,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['YES'],['2017'],2017,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['34%'],73%,0.0
+Factoid,['NO'],['Unanswerable'],43500,0.0
+Factoid,['NO'],['2019 LS'],2004,0.0
+Hypothetical,['NO'],['46'],36,0.0
+Factoid,['NO'],['0.1'],10,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Japan'],United Kingdom,0.0
+Factoid,['NO'],['June 2015'],[Oct 2015],0.0
+Factoid,['NO'],['663'],$835,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['YES'],['2014'],2017,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['4.70'],3.70,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['17%'],17%,1.0
+Factoid,['NO'],['22.5'],27,0.0
+Conversational,['NO'],"['GDP', 'Libya']",Libya,1.0
+Conversational,['NO'],"['GDP', 'Libya', 'unanswerable', 'Ireland']",Ireland,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],45,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['7.7 billion tons'],3.7B,0.0
+Factoid,['NO'],['Unanswerable'],$71,0.0
+Conversational,['NO'],"['2017', '88.73%']",88%,1.0
+Conversational,['NO'],"['2017', '88.73%', '8.38', 'Yes', '16']",5,0.0
+Factoid,['NO'],['45%'],45%,1.0
+Factoid,['NO'],['Unanswerable'],48,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Unanswerable'],March,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['0.25%'],-4.9%,0.0
+Factoid,['NO'],['20.51%'],20%,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['8'],3,0.0
+Factoid,['NO'],['food'],Regulated Services,0.0
+Conversational,['NO'],"['4%', '76.5%']",79.25%,1.0
+Conversational,['NO'],"['4%', '76.5%', '3', 'Education']",48,0.0
+Factoid,['NO'],['0.53'],0.4 GHz to 1.2 GHz,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Increasing'],Increasing,1.0
+Multi Choice,['NO'],['A'],d,0.0
+Factoid,['NO'],['86%'],86%,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['180'],175,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['YES'],['2002'],2014,0.0
+Conversational,['NO'],"['7 Events', 'Taper Tantrup']",Global financial crisis outbreak,0.0
+Conversational,['NO'],"['7 Events', 'Taper Tantrup', '42%', 'Global Financial Crisis Outbreak']",Global financial crisis outbreak,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['[January, December]', '2000', '12.66']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],45.8 Mbps,0.0
+Factoid,['NO'],['Great Recession'],Early 90's Recession,0.55
+Conversational,['NO'],"['102000', '0']","400,000",0.0
+Conversational,['NO'],"['102000', '0', '6', 'Covid Pandemic', 'Ambigous question']","500,000",0.0
+Factoid,['NO'],['Q4 2015'],Q1 2016,0.7142857142857143
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['66.36%'],50%,0.0
+Factoid,['NO'],"[""['2001, 60%']""]",[2001],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['6'],3,0.0
+Factoid,['NO'],['1'],3,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Tech'],China,0.0
+Factoid,['YES'],['2013'],2014,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['YES'],['2022'],2018,0.0
+Factoid,['YES'],['2020'],2022,0.0
+Factoid,['NO'],['17.5'],unanswerable,0.0
+Factoid,['NO'],['19'],[5],0.0
+Factoid,['NO'],['Unanswerable'],0.78,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],[5],0.0
+Conversational,['YES'],"['12', '2012']",2012,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['74.457'],74.457,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Hypothetical,['NO'],['Different'],unanswerable,0.0
+Multi Choice,['NO'],['C'],b,0.0
+Multi Choice,['NO'],['A'],b,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['38', 'Sun May 16', '4.75']",0.38,0.0
+Conversational,['NO'],"['12', '2012', '550', 'Yes', 'No']",Yes,0.0
+Factoid,['NO'],['17-18'],[18],0.0
+Conversational,['NO'],"['Demand trend', '[Day ahead forecast, Hour ahead forecast, Demand (5 min. avg.)]']","Day ahead forecast, Hour ahead forecast, Demand (5 min. avg.)",0.9682539682539683
+Conversational,['NO'],"['Demand trend', '[Day ahead forecast, Hour ahead forecast, Demand (5 min. avg.)]', 'unanswerable', 'lower', '17 to 18']",18-19 hours,0.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['919'],350,0.0
+Factoid,['NO'],['UK CPI'],UK CPI YoY%,0.6
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['Winter'],Spring,0.0
+Factoid,['NO'],['decline'],[Plummeted],0.0
+Conversational,['NO'],"['7', '40K', '50%']",35%,0.0
+Conversational,['NO'],"['7', '40K', '50%', '53%', 'Yes', 'Yes']",Yes,1.0
+Conversational,['NO'],"['[Obama, Romney]', 'unanswerable']",Obama,0.0
+Conversational,['NO'],"['[Obama, Romney]', 'unanswerable', 'unanswerable', 'Obama', 'unanswerable']",5,0.0
+Factoid,['NO'],['95'],105,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Mumbai'],Bengaluru,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],2053,0.0
+Factoid,['NO'],['7.86'],8.03%,1.0
+Factoid,['NO'],['3.4%'],3.4%,1.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Factoid,['NO'],['4'],4,1.0
+Hypothetical,['NO'],['-18.2'],[-9.1],0.0
+Factoid,['NO'],['550'],55,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['20%'],[37.4%],0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['Unanswerable'],0.8,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['200'],800,0.0
+Hypothetical,['NO'],['lower'],Lower,1.0
+Factoid,['NO'],['451'],451,1.0
+Factoid,['NO'],['April'],Nov'19,0.0
+Factoid,['NO'],['101186'],98308,1.0
+Factoid,['NO'],['Orange'],Orange,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['YES'],['2010'],2018,0.0
+Factoid,['NO'],['Unanswerable'],30%,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['10395'],"$10,375",0.5714285714285714
+Factoid,['NO'],['independents'],Democrats,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['25%', '2020', 'Yes']",unanswerable,0.0
+Factoid,['NO'],['98%'],[83],0.0
+Factoid,['NO'],['-750'],-£900,0.0
+Multi Choice,['NO'],['C'],b,0.0
+Factoid,['NO'],['22'],20,0.0
+Factoid,['NO'],['61.7'],59.33%,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['3'],4,0.0
+Factoid,['NO'],['2'],5,0.0
+Conversational,['NO'],"['Increasing', '32']",34,0.0
+Conversational,['NO'],"['Increasing', '32', '25th September', '5', 'No']",Yes,0.0
+Factoid,['NO'],"[""['June, July']""]","[July, August]",0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['YES'],['2015'],2016,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['YES'],['1993'],2009,0.0
+Factoid,['NO'],['FOSSIL FUEL POWER GENERATOR'],Nuclear,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Yes'],Yes,1.0
+Factoid,['NO'],['Unanswerable'],4500 GL,0.0
+Factoid,['NO'],['75-84'],5-14,0.6
+Factoid,['NO'],['24'],3,0.0
+Factoid,['NO'],['35'],48%,0.0
+Factoid,['NO'],['8.1'],8.1,1.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['22%'],43,0.0
+Factoid,['NO'],['2'],34%,0.0
+Factoid,['NO'],['860'],895,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Hypothetical,['NO'],['34.5'],$1.6bn,0.0
+Multi Choice,['NO'],['Unanswerable'],d,0.0
+Factoid,['NO'],['6'],[3],0.0
+Factoid,['NO'],['4.55'],8.4,0.0
+Conversational,['NO'],"['9.4 weeks', '0.7 weeks']",8.4,0.0
+Conversational,['NO'],"['9.4 weeks', '0.7 weeks', '16 years', 'The 1990s', 'Yes']",Yes,1.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['April 2019'],April 2019,1.0
+Hypothetical,['NO'],['7.5'],6.75 trillion RMB,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['57.4'],95.1,0.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['Cyprus'],Ireland,0.0
+Factoid,['NO'],['Unanswerable'],[5],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['25'],[13.33],0.0
+Factoid,['NO'],['3'],3,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Hypothetical,['NO'],['likely'],Unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],30,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['57%'],57%,1.0
+Factoid,['NO'],['5'],unanswerable,0.0
+Conversational,['NO'],"['Increasing trend', '[Max Verstappen, Lewis Hamilton]', '22']",22,1.0
+Conversational,['NO'],"['Increasing trend', '[Max Verstappen, Lewis Hamilton]', '22', 'Max Verstappen', 'Race 5', 'Race 9', '30']",100,0.0
+Factoid,['NO'],['84'],84%,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['8'],[53],0.0
+Factoid,['NO'],['81'],$53,0.0
+Factoid,['NO'],['6'],[3.5],0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['No'],2019,0.0
+Factoid,['NO'],['No'],yes,0.0
+Hypothetical,['NO'],['3 inches'],3 inches,1.0
+Conversational,['NO'],"['5', '20-29, 60+']","20-29, 60+",1.0
+Conversational,['NO'],"['5', '20-29, 60+', '250', '0-19']",40-49,0.6
+Factoid,['NO'],['5.1'],7th,0.0
+Conversational,['NO'],"['5', 'Declines']",improved,0.0
+Conversational,['NO'],"['5', 'Declines', '1997', 'No']",unanswerable,0.0
+Factoid,['NO'],['49.7%'],39%,0.0
+Factoid,['NO'],['−5.3'],unanswerable,0.0
+Conversational,['NO'],"['Line graphs', '4', 'January']",Jan,0.0
+Conversational,['NO'],"['Line graphs', '4', 'January', 'July', 'Daily tests', 'Daily Deaths']",unanswerable,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['11.3'],10.73,0.0
+Factoid,['NO'],['30.485'],"[33.37, 26.42]",0.0
+Hypothetical,['NO'],['1.3'],3.3%,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['Unanswerable'],5,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Montreal'],Montreal,1.0
+Factoid,['NO'],['Unanswerable'],"$30,000",0.0
+Fact Checking,['NO'],['False'],false,1.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['Unanswerable'],"$30,000",0.0
+Factoid,['NO'],['97.33%'],[49.8],0.0
+Conversational,['NO'],"['E-Mail was posted on a public Web site', '97.33%']",29.7%,0.0
+Conversational,['NO'],"['E-Mail was posted on a public Web site', '97.33%', 'E-mail was used to register a domain name', '8483']",8609,1.0
+Factoid,['NO'],['Native American'],Asian/Pacific Islander,0.0
+Conversational,['NO'],"['1', 'Native American']",White,0.0
+Conversational,['NO'],"['1', 'Native American', '1.8', 'Asian/Pacific Islander', '44.44%']",-17.8%,0.0
+Factoid,['NO'],['6.6'],3.7,0.0
+Factoid,['NO'],['4.5'],4.50,1.0
+Multi Choice,['NO'],['Unanswerable'],b,0.0
+Factoid,['NO'],['Index of Services'],All other services,0.0
+Multi Choice,['NO'],['C'],b,0.0
+Factoid,['NO'],['No'],no,1.0
+Factoid,['NO'],['0'],4,0.0
+Factoid,['NO'],['31727'],70563,0.0
+Factoid,['NO'],['08/2012'],unanswerable,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Conversational,['NO'],"['25%', 'Increasing']",decreasing,0.8
+Conversational,['NO'],"['25%', 'Increasing', 'No', 'Siena']",Marist,0.0
+Factoid,['NO'],['2008-2009'],2009-2010,0.6666666666666667
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['1.6'],3.7°C,0.0
+Factoid,['NO'],['2037-38'],2024-2025,0.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Conversational,['NO'],"['20', '5']",-5,0.0
+Conversational,['NO'],"['20', '5', 'Yes', '15']",Yes,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Hypothetical,['NO'],['423K'],0.53M,0.0
+Factoid,['NO'],['0.0648'],-3.5%,0.0
+Factoid,['NO'],['Unanswerable'],[365 GW] [78.9%],0.0
+Factoid,['NO'],['yes'],unanswerable,0.0
+Factoid,['NO'],['Amplats'],Amplats,1.0
+Hypothetical,['NO'],['Native American'],Native Hawaiian/Polynesian/Latina,0.0
+Factoid,['NO'],['5'],1,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['0.31'],[3],0.0
+Factoid,['NO'],['8'],36,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['34'],34,1.0
+Factoid,['NO'],['0'],-13,0.0
+Factoid,['NO'],['Beer'],Beer,1.0
+Multi Choice,['NO'],['Unanswerable'],b,0.0
+Factoid,['YES'],['2011'],2008,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],"[""['2002, 2003']""]",2008-2009,0.6
+Conversational,['YES'],"['8', '2001']",2001,1.0
+Conversational,['NO'],"['8', '2001', 'fourth', 'Increasing', 'Yes']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['No'],"['08', '14', '15', '16', '17', '18', '19', '20']",0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['33'],37,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['196'],175,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['4.52'],4.35,1.0
+Factoid,['NO'],['767'],688,0.0
+Conversational,['NO'],"['4.67', 'Increases', '0.38']",6.21,0.0
+Conversational,['NO'],"['4.67', 'Increases', '0.38', 'Punjab', '792', 'Punjab, Rajasthan', '0.16']",1/2,0.0
+Factoid,['NO'],['Unanswerable'],[1.5],0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['May'],May,1.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['75 to 79 years'],85 years and over,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['5'],3,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['YES'],['1976'],1976,1.0
+Hypothetical,['NO'],['74757'],-4683,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['10%'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['78'],78%,1.0
+Factoid,['YES'],['2002'],unanswerable,0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],0,0.0
+Hypothetical,['NO'],['6'],5,0.0
+Factoid,['NO'],['0.544'],54.4%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['672'],384,0.0
+Factoid,['NO'],['33.33'],30,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['05/06'],unanswerable,0.0
+Hypothetical,['NO'],['40'],43,0.0
+Factoid,['NO'],['6'],3,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['46%'],[37],0.0
+Factoid,['NO'],['Unanswerable'],[50],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['YES'],['2020'],2019,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['06-28'],04-18,0.6
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['0.57%'],['3.9%'],0.0
+Factoid,['NO'],['126323'],"$160,973",0.0
+Factoid,['NO'],['24.84'],24.84,1.0
+Factoid,['NO'],['-98000'],-135,0.0
+Hypothetical,['NO'],['Silver Spot'],Silver Spot,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['YES'],['2014'],2014,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Brent Harvey'],Brent Harvey,1.0
+Factoid,['NO'],['1'],unanswerable,0.0
+Factoid,['NO'],['125000'],unanswerable,0.0
+Factoid,['NO'],['One'],unanswerable,0.0
+Factoid,['NO'],['Q4 2020'],Q4 2019 - Q4 2020,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['WA'],NT,0.0
+Factoid,['NO'],['3'],3,1.0
+Factoid,['NO'],['4'],3,0.0
+Hypothetical,['NO'],['72%'],unanswerable,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['YES'],['2011'],2010,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],38.46%,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Hypothetical,['NO'],['34.94'],34.93,1.0
+Factoid,['NO'],['92'],80,0.0
+Conversational,['NO'],"['Dashboard', '$1600']","$2,508",0.0
+Factoid,['NO'],['208266'],"$3,875,696",0.0
+Conversational,['NO'],"['Dashboard', '$1600', '44.44%', 'Anna Cole']",Curtis Miller,0.0
+Factoid,['NO'],['2.68'],[0.79],0.0
+Factoid,['NO'],['Learning Sciences'],PhD Philosophy,0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['85%'],[40],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['National Defense'],Veterans benefits,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['10%'],[34.7%],0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['2329.5'],$350,0.0
+Factoid,['NO'],['Gray'],Red,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['31.3%', '3.2']",3.25,1.0
+Conversational,['NO'],"['31.3%', '3.2', '54.55%', 'Yes', '17%']",17%,1.0
+Factoid,['NO'],['2011-2012'],2015-2016,0.7777777777777778
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Formal sector (non-agricultural)'],[Private households],0.0
+Factoid,['NO'],['6.6'],unanswerable,0.0
+Factoid,['NO'],['France'],France,1.0
+Conversational,['NO'],"['1000', '50']",2500,0.0
+Conversational,['NO'],"['1000', '50', 'No', '300%', '6.67']",5.7,0.0
+Conversational,['NO'],"['CPI inflation, Pay including bonuses', '1.2%']",-1.3,0.0
+Conversational,['NO'],"['CPI inflation, Pay including bonuses', '1.2%', 'Less', '27.7%', '157.69%']",5.4%,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['0.05'],[35.7],0.0
+Factoid,['NO'],['4'],3,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Police'],Non-Operating Department Expenditures,0.0
+Factoid,['NO'],['4 days'],3,0.0
+Conversational,['NO'],"['Line Chart', 'Global, Advanced economics, Emerging and developing economies']","Global, Advanced economies, Emerging & developing economies",0.9344262295081968
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['7'],5.9,0.0
+Factoid,['NO'],['Greater'],"greater than 200,000 contracts",0.0
+Conversational,['NO'],"['Line Chart', 'Global, Advanced economics, Emerging and developing economies', '[2, 18]', 'Global', '1980s']",1970s,0.8
+Factoid,['NO'],['House'],Senate,0.0
+Factoid,['NO'],['-18 million'],34,0.0
+Conversational,['NO'],"['2014, October', 'Larger', '2.5 million']",5.67M,0.0
+Conversational,['NO'],"['2014, October', 'Larger', '2.5 million', 'Yes', 'October, 2014', '3.69%', 'Yes']",Yes,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Hypothetical,['NO'],['SC/ST'],OBC,0.0
+Factoid,['NO'],['13.4'],13.39%,1.0
+Factoid,['NO'],['115032'],[35.48],0.0
+Hypothetical,['NO'],['Spain'],unanswerable,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['Blue'],University of Michigan Consumer Sentiment (left axis),0.0
+Factoid,['NO'],['Unanswerable'],130000,0.0
+Conversational,['NO'],"['Decreasing', '2015-2019', '365000']",365000,1.0
+Conversational,['NO'],"['Decreasing', '2015-2019', '365000', 'No', '[Negative gearing threat, COVID-19]', '5556']",-19000,0.0
+Factoid,['NO'],['01/2022'],Jan 2022,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],14.5,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['More'],less than 5.4,0.0
+Factoid,['NO'],['25'],25%,1.0
+Factoid,['NO'],['15'],15%,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Red'],red,1.0
+Factoid,['NO'],['203'],"7,182",0.0
+Factoid,['NO'],['6.5'],6.5,1.0
+Factoid,['NO'],['178.9 billion'],$45.9bn,0.0
+Factoid,['NO'],['8 pm'],6:00 PM,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['-0.4'],-0.4,1.0
+Factoid,['YES'],['2010'],1975,0.0
+Factoid,['NO'],['Unanswerable'],6.8%,0.0
+Factoid,['NO'],"[""['2014, 5.5%']""]","2014, 5.3%",0.8888888888888888
+Factoid,['NO'],['3.75'],[3.75],1.0
+Factoid,['NO'],['Sweden'],Spain,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['74%'],unanswerable,0.0
+Factoid,['NO'],['2'],3,0.0
+Factoid,['NO'],['Scotland'],Scotland,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['7'],47%,0.0
+Factoid,['NO'],['The opportunities party'],The Maori Party,0.5652173913043479
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['18.75%'],unanswerable,0.0
+Factoid,['NO'],['28/02/2022'],07/03/2022,0.7
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['YES'],['1961'],1981,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],3.5,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['4'],6,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['Unanswerable'],1500,0.0
+Conversational,['NO'],"['March', 'July']",March,0.0
+Conversational,['NO'],"['March', 'July', 'September, March', 'Ambigous Q']",unanswerable,0.0
+Factoid,['NO'],['Q3 2017'],Q3 2014,0.8571428571428572
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Friends'],Met in primary or secondary school,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['USFLUX'],TOTUSJH,0.0
+Factoid,['NO'],['18000'],38000,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['14'],14%,1.0
+Hypothetical,['NO'],['240000'],"$240,000",0.75
+Conversational,['NO'],"['Suburban Periphery', '7%']",32.67%,0.0
+Conversational,['NO'],"['Suburban Periphery', '7%', 'Agriculture', 'Pink', '32.26%']",50.7%,0.0
+Factoid,['NO'],['9070'],[14039.62],0.0
+Factoid,['NO'],['150'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['C'],a,0.0
+Factoid,['NO'],['Shane Doan'],Joe Thornton,0.0
+Factoid,['NO'],['Unanswerable'],340,0.0
+Factoid,['NO'],['6%'],unanswerable,0.0
+Conversational,['NO'],"['15%', 'Travel / Holiday Accommodation', 'less']",Less,1.0
+Factoid,['YES'],['2016'],2015,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['4'],3,0.0
+Conversational,['NO'],"['28.06%', 'Flowers']",Flowers,1.0
+Conversational,['NO'],"['28.06%', 'Flowers', '42%', '3.57', '11%']",25,0.0
+Factoid,['NO'],['4'],unanswerable,0.0
+Hypothetical,['NO'],['Before day 150'],Before day 150,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['640000'],"740,000",0.7142857142857143
+Factoid,['NO'],['107'],[108],1.0
+Factoid,['NO'],"[""Q1'13""]",Q3'12,0.6
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['8'],4,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Trump'],Trump,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['75000'],300,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Unanswerable'],39,0.0
+Factoid,['NO'],['Unanswerable'],[17],0.0
+Factoid,['NO'],['Unanswerable'],765,0.0
+Factoid,['NO'],['40'],40,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Underrepresented'],Equity,0.0
+Factoid,['NO'],['February 2018'],December 2017,0.0
+Multi Choice,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['30.89%'],unanswerable,0.0
+Factoid,['NO'],['20'],15,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['125'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],34,0.0
+Factoid,['NO'],['9'],3,0.0
+Factoid,['NO'],['Unanswerable'],CPIH,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Conversational,['NO'],"['Line graph', 'Yes']",Yes,1.0
+Factoid,['NO'],['8 AM'],8 AM,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['Line graph', 'Yes', '[2AM, 5 AM]', '[5 AM, 8 AM]']",8 AM to 9 AM,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['11'],10.1%,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Hypothetical,['NO'],"['France, Taiwan']",[Indonesia],0.0
+Factoid,['NO'],['76'],[77],1.0
+Factoid,['NO'],['01/03'],unanswerable,0.0
+Multi Choice,['NO'],['A'],d,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['340'],$24.25,0.0
+Factoid,['NO'],['88%'],88%,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Conversational,['NO'],"['Surplus/profit', '9275']",unanswerable,0.0
+Factoid,['NO'],['66916.15'],"$69,374",0.0
+Conversational,['NO'],"['Surplus/profit', '9275', '1.001', 'Income']",Income,1.0
+Factoid,['NO'],['YouTube'],YouTube,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['April'],April,1.0
+Hypothetical,['NO'],['Decrease'],Increase,0.75
+Factoid,['NO'],['4'],unanswerable,0.0
+Hypothetical,['NO'],['2011-12'],unanswerable,0.0
+Factoid,['NO'],['0.384'],[0.03],0.0
+Conversational,['NO'],"['7', '5']",4,0.0
+Conversational,['NO'],"['7', '5', 'Yes', '6M']",unanswerable,0.0
+Factoid,['NO'],['33.01%'],3.3%,0.0
+Factoid,['NO'],['Unanswerable'],730,0.0
+Conversational,['NO'],"['-2.36%', 'Less']",less than,0.0
+Conversational,['NO'],"['-2.36%', 'Less', 'Cyclical', 'Smoothed']",unanswerable,0.0
+Factoid,['NO'],['800'],[24.2],0.0
+Hypothetical,['NO'],['46.12'],49.3,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['85'],85,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['Unanswerable'],378.67,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['7'],6,0.0
+Factoid,['NO'],"[""['Content Marketing, Email Marketing, Social Media']""]",Project Management,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['3'],3,1.0
+Factoid,['NO'],['Unanswerable'],100,0.0
+Factoid,['NO'],['13.43'],16.73,0.0
+Factoid,['NO'],['65779'],"$65,779",0.7142857142857143
+Hypothetical,['NO'],"[""['34.5%, 38.5%']""]","[36%, 24%]",0.0
+Factoid,['NO'],['1'],81.82%,0.0
+Multi Choice,['NO'],['C'],d,0.0
+Factoid,['NO'],['Renewable'],Nuclear,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['28 minutes'],39,0.0
+Multi Choice,['NO'],['C'],a,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['D'],b,0.0
+Factoid,['NO'],['55.87%'],45,0.0
+Factoid,['NO'],['5513732'],"4,928,824",0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['351'],[501],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['100'],300,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Conversational,['YES'],"['1993', '2003']",2003,1.0
+Conversational,['NO'],"['1993', '2003', '50000', 'Yes, 2007, 2012']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Q2'],Q4 2015,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Conversational,['NO'],"['15 runs', 'Marlon Samuels']",Marlon Samuels,1.0
+Conversational,['NO'],"['15 runs', 'Marlon Samuels', 'Krishmar Santokie', 'Boungdaries']",Boundaries,0.9090909090909091
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['19'],49,0.0
+Factoid,['NO'],['other Polynesain'],Tongan,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['59%', '6%']",unanswerable,0.0
+Conversational,['NO'],"['59%', '6%', '7%', 'negative', 'Whites']",unanswerable,0.0
+Factoid,['NO'],['6.33'],38% / (26% - 20%) = 1.9,0.0
+Factoid,['NO'],['July'],April,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['42%'],58%,0.0
+Factoid,['NO'],['5657'],unanswerable,0.0
+Factoid,['NO'],['Rep/Lean Rep'],Dem/Lean Dem,0.6666666666666667
+Multi Choice,['NO'],['A'],a,1.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Factoid,['NO'],['9'],8,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['2011 to 2012'],2010 to 2011,0.8333333333333334
+Factoid,['NO'],['2665000'],934000,0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['Unanswerable'],30,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],[95],0.0
+Factoid,['NO'],['Maths'],Mathematics,0.0
+Factoid,['YES'],['2015'],2013,0.0
+Hypothetical,['NO'],['6500'],"4,600",0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['93.16%'],[74.5%],0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['food and beverage'],Wages,0.0
+Factoid,['YES'],['2017'],unanswerable,0.0
+Conversational,['NO'],"['10', '1', '50']",50,1.0
+Conversational,['NO'],"['10', '1', '50', '5 per year', 'Similar', 'Less']",Less,1.0
+Factoid,['NO'],['Unanswerable'],[Washington],0.0
+Factoid,['NO'],['21'],10,0.0
+Factoid,['NO'],['Unanswerable'],2.5,0.0
+Factoid,['NO'],['Dow industrials'],Dow industrials,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['-70.56'],37.44,0.0
+Factoid,['NO'],['Unanswerable'],50%,0.0
+Factoid,['NO'],['3.91'],[43%],0.0
+Hypothetical,['NO'],['238500'],"368,500",0.5714285714285714
+Factoid,['NO'],['Colombia'],unanswerable,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],54,0.0
+Factoid,['NO'],['3'],4,0.0
+Factoid,['NO'],['839'],[897],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['August 2015'],[2015-08],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['No'],no,1.0
+Hypothetical,['NO'],['Tablet'],Tablet,1.0
+Factoid,['NO'],['nan'],unanswerable,0.0
+Factoid,['NO'],['6'],14,0.0
+Factoid,['NO'],['Unanswerable'],[Clackamas],0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Hypothetical,['NO'],['April'],June,0.0
+Factoid,['NO'],['12.5'],[3.8],0.0
+Factoid,['YES'],['2016'],2016,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['ISIL', 'Taliban']",Taliban,1.0
+Conversational,['YES'],"['ISIL', 'Taliban', '2000', '2016']",unanswerable,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Dec'],Jan,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['2%'],6,0.0
+Factoid,['NO'],['Up All Night'],'4',0.0
+Factoid,['NO'],['8.2'],8.2%,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],"['1,250 billion']",$800B,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],"4,690",0.0
+Conversational,['NO'],"['Twitter mentions', 'Facebook']",Twitter mentions,0.0
+Conversational,['NO'],"['Twitter mentions', 'Facebook', 'June', '4.5']",0.85,0.0
+Factoid,['NO'],['Health Care'],Health Care,1.0
+Factoid,['NO'],['8'],Week 30,0.0
+Factoid,['NO'],['43.5m'],"['39.6m', '35.2m']",0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['Unanswerable'],b,0.0
+Factoid,['NO'],['12'],[12],1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['4'],Q4 2013/14,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['Somewhat Negative'],Very negative,0.5882352941176471
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['1134'],1396,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['54'],0.43,0.0
+Factoid,['NO'],['Unanswerable'],37 inches,0.0
+Factoid,['NO'],['Unanswerable'],1350,0.0
+Factoid,['NO'],['43%'],[36],0.0
+Factoid,['NO'],['5900'],5900,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['762'],730,1.0
+Factoid,['NO'],['2010M7'],2008M7,0.6666666666666667
+Factoid,['NO'],['241.5 billion'],390,0.0
+Multi Choice,['NO'],['C'],a,0.0
+Factoid,['NO'],['11'],13,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['8'],4,0.0
+Factoid,['NO'],['22449'],"13,985",0.0
+Conversational,['NO'],"['143', '36.36%']",37%,1.0
+Conversational,['NO'],"['143', '36.36%', 'less', '5', '22']",13,0.0
+Factoid,['NO'],['50%'],50%,1.0
+Conversational,['NO'],"['2', '60']",50%,0.0
+Conversational,['NO'],"['2', '60', 'More', '23%', '0.46']",0.75,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['45576'],unanswerable,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['82000'],[68000],0.0
+Factoid,['NO'],['United Airlines'],Emirates,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Conversational,['NO'],"['yes', 'Had dead family members communicate with them']",Had dead family members communicate with them,1.0
+Conversational,['NO'],"['yes', 'Had dead family members communicate with them', 'unanswerable', 'unanswerable', 'unanswerable']",Christian,0.0
+Factoid,['NO'],['47'],346,0.0
+Conversational,['NO'],"['9', '912']",271,0.0
+Conversational,['NO'],"['9', '912', '1234', '408', '278']",unanswerable,0.0
+Factoid,['NO'],['46.4'],33.7,0.0
+Factoid,['NO'],['5.65%'],3.7%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],71,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],10.5M,0.0
+Factoid,['NO'],['Unanswerable'],13,0.0
+Factoid,['NO'],['18'],19.5%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['[US, China]', 'lower', 'January 2018']",Dec 2018,0.0
+Conversational,['NO'],"['[US, China]', 'lower', 'January 2018', 'unanswerable', '2018', '2017', 'No']",No,1.0
+Factoid,['NO'],['455'],[106],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['A'],b,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['3590'],3147,0.0
+Factoid,['NO'],['0.92'],90.79%,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['50%'],75%,0.0
+Factoid,['NO'],['-19'],39,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['1925'],[1437],0.0
+Factoid,['NO'],['Unanswerable'],3.5 times,0.0
+Hypothetical,['NO'],['11.7'],[13.9 mph],0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['7.08'],7.06,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Rest of Ontario'],Rest of Ontario,1.0
+Factoid,['NO'],['26.5'],61,0.0
+Factoid,['NO'],"[""['2017, 2018']""]","2018, 2017",0.8
+Factoid,['NO'],['Buildings emissions'],"Other emissions, minus offset",0.0
+Factoid,['NO'],['Unanswerable'],0.38%,0.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['66.67%'],75%,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['Unanswerable'],5,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['More likely'],more likely,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['3'],7.5,0.0
+Hypothetical,['NO'],['4'],unanswerable,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],"[""['7.9%, 1.4%']""]","[5.9, 1.8]",0.0
+Factoid,['NO'],['42.33%'],45.67%,0.0
+Factoid,['NO'],['363707'],[407985],0.0
+Conversational,['NO'],"['5', '[107137, 171483, 204444, 276198, 610480]']","Gujaratis, North Indians, South Indians, Muslims, Marathis",0.0
+Conversational,['NO'],"['5', '[107137, 171483, 204444, 276198, 610480]', 'Marathis', '42.4%', '34.96%']",5%,0.0
+Factoid,['NO'],['41'],63,0.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Hypothetical,['NO'],['Decrease'],decrease,1.0
+Factoid,['NO'],['2.25'],4.35,0.0
+Factoid,['NO'],['4'],4.8%,0.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['Democrats'],['Dem/Lean Dem'],0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['80.96%'],94.3%,0.0
+Factoid,['NO'],['0.31'],[20.3],0.0
+Conversational,['NO'],"['62.25', '43.85']",54.4%,0.0
+Conversational,['NO'],"['62.25', '43.85', '30.33', '70.9', 'ages 6-9']",60%,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['44%'],44,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['1.97'],"['59', '30']",0.0
+Conversational,['NO'],"['Muslims', '68%']",68,1.0
+Conversational,['NO'],"['Muslims', '68%', '58.33%', '55%', '3.33%']",70,0.0
+Factoid,['NO'],['31'],197,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['Unanswerable'],"[30000, 650]",0.0
+Factoid,['NO'],['16%'],13%,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['74.785K'],"53,764",0.0
+Conversational,['NO'],"['65.36k', '9']",4,0.0
+Conversational,['NO'],"['65.36k', '9', '0.88', '0.9951']",0.98,1.0
+Factoid,['YES'],['1990'],1980,0.0
+Factoid,['YES'],['1997'],1983,0.0
+Factoid,['NO'],['56%'],56,1.0
+Hypothetical,['NO'],['39%'],[18],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Black'],Asians,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],35%,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['50'],17,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],"[""['Orange, FL']""]","Maricopa, AZ",0.0
+Factoid,['NO'],['18'],[17],0.0
+Conversational,['NO'],"['Governor Removal', 'Resigned']",25,0.0
+Conversational,['NO'],"['Governor Removal', 'Resigned', '40%', 'No']",unanswerable,0.0
+Factoid,['NO'],['23'],15,0.0
+Factoid,['NO'],['123'],124,1.0
+Hypothetical,['NO'],['155'],155,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['9%'],9,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['I0'],['20'],0.0
+Factoid,['NO'],['12300'],12.3,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['NO'],"['2', 'Pantaleo non-indictment']",Pantaleo non-indictment,1.0
+Factoid,['NO'],['the initial Ferguson protests'],Wilson non-indictment,0.0
+Conversational,['NO'],"['2', 'Pantaleo non-indictment', 'No', 'Period 8']",Period 9,0.875
+Factoid,['NO'],['0.29'],0.3%,1.0
+Factoid,['NO'],['55.5'],"[65, 66]",0.0
+Multi Choice,['NO'],['B'],a,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1200'],1600,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],[0.75],0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['Unanswerable'],30000,0.0
+Factoid,['NO'],['Unanswerable'],"$30,000",0.0
+Factoid,['NO'],['Unanswerable'],4000,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['680000'],"833,333",0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],[3],0.0
+Factoid,['NO'],['49%'],[35],0.0
+Factoid,['NO'],['Students/Interns'],Full time,0.0
+Hypothetical,['NO'],['Mexico'],Sweden,0.0
+Hypothetical,['NO'],['14500'],"60,000",0.0
+Factoid,['NO'],['27%'],34%,0.0
+Conversational,['NO'],"['Yes', 'Parler']",Parler,1.0
+Conversational,['NO'],"['Yes', 'Parler', 'Rumble', '18%']",50%,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['2'],"['40', '50']",0.0
+Conversational,['NO'],"['[Statewide, High-poverty/high-unemployment area]', '20', 'Statewide']",Employment in CA,0.0
+Factoid,['NO'],['333'],[378],0.0
+Factoid,['YES'],['1991'],1990,0.0
+Factoid,['NO'],['Unanswerable'],50000,0.0
+Factoid,['NO'],['Russian Federation'],United States,0.0
+Conversational,['NO'],"['Area Chart', '12%']",5%,0.0
+Factoid,['NO'],['Decreased'],decreased,1.0
+Multi Choice,['NO'],['A'],c,0.0
+Conversational,['NO'],"['Area Chart', '12%', 'Mainland China', 'Yes', 'Russian Federation']",United States,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['280'],300,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],43,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['6'],1000000,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],"[""['2020, 22.5']""]","2015, 11%",0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],4,0.0
+Factoid,['NO'],"[""['PHOTOS, VIDEOS']""]",Photos & Videos,0.8666666666666667
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Philippines'],Indonesia,0.0
+Conversational,['NO'],"['Infographic', 'Two']",2,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['Infographic', 'Two', 'Bar graph', '327']",1120,0.0
+Factoid,['NO'],['Latino'],Black,0.0
+Factoid,['YES'],['2013'],2014,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1.08'],['40/37'],0.0
+Conversational,['NO'],"['Yes', 'Stock Photography']",Stock Photography,1.0
+Conversational,['NO'],"['Yes', 'Stock Photography', '19%', 'No']",No,1.0
+Factoid,['NO'],['Unanswerable'],3850,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Factoid,['NO'],['More'],less,0.0
+Factoid,['NO'],['5'],5,1.0
+Factoid,['NO'],['12 to 17'],5 to 11,0.625
+Factoid,['NO'],['81.5'],-34.8%,0.0
+Conversational,['NO'],"['6', '65+', '[9%, 18 to 24]']",65+,0.0
+Conversational,['NO'],"['6', '65+', '[9%, 18 to 24]', '25 to 44', '5 to 11', '[45 to 64, 65+]']",65+,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['5'],[7],0.0
+Factoid,['NO'],['Unanswerable'],0.5%,0.0
+Factoid,['NO'],['Other Staff'],Full time,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['19.35%'],35%,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['51%'],[37],0.0
+Factoid,['NO'],['1.9'],1.9%,1.0
+Conversational,['NO'],"['workers who switch jobs vs. those who stay', 'workers who switch jobs']",Switch,0.0
+Conversational,['NO'],"['workers who switch jobs vs. those who stay', 'workers who switch jobs', 'unanswerable', '1.9', ""Mar '97 to Jul '00""]",2007-2008,0.0
+Factoid,['NO'],['72.50%'],72.5%,1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['49'],34,0.0
+Factoid,['NO'],['82.14%'],85.7%,1.0
+Factoid,['YES'],['2007'],2011,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1970s'],[1970s],0.7142857142857143
+Factoid,['NO'],['40%'],40%,1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Conversational,['NO'],"['[California, United States]', '1']",$2.50,0.0
+Conversational,['NO'],"['[California, United States]', '1', '2015 July', 'Briefly']",long,0.0
+Factoid,['NO'],['Multi-day lift ticket'],Season pass,0.0
+Factoid,['NO'],['2448'],136,0.0
+Conversational,['NO'],"['106th', '230']",275,0.0
+Conversational,['NO'],"['106th', '230', '442', 'unanswerable']",unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],a) Percentage of volumes recharged by surface water access,0.0
+Hypothetical,['NO'],['63%'],63%,1.0
+Factoid,['NO'],['Adelaide'],Melbourne,0.0
+Factoid,['NO'],['Unanswerable'],November,0.0
+Factoid,['NO'],['101258'],10759,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['NO'],"['2.47', '71.02']",2.38,0.0
+Conversational,['NO'],"['2.47', '71.02', 'Great quality', '7.75']",0.857,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['State Jackpot Games'],State Jackpot Games,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Multi Choice,['NO'],['Unanswerable'],d,0.0
+Factoid,['NO'],['39%'],39,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['0.04'],4%,0.0
+Factoid,['YES'],['1996'],2006,0.0
+Factoid,['NO'],['Unanswerable'],[47],0.0
+Conversational,['NO'],"['5', '[YouTube, TikTok, Facebook, Twitter(X), Twitch]', '2%']",20%,0.0
+Conversational,['NO'],"['5', '[YouTube, TikTok, Facebook, Twitter(X), Twitch]', '2%', '7%', '[BeReal, Reddit, Discord]', 'YouTube']",TikTok,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['YES'],['2023'],2024,0.0
+Factoid,['NO'],['SMAVG (200)'],Onshore ruble per dollar,0.0
+Factoid,['NO'],['276000'],"[176,000]",0.0
+Factoid,['NO'],['Japan'],Japan,1.0
+Factoid,['NO'],['Unanswerable'],0.25,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['Decreasing', 'Unanswerable']",unanswerable,1.0
+Conversational,['NO'],"['April', '0.3%', '135000']","77,000",0.0
+Conversational,['NO'],"['650', '[2013, 2015]']",2013 and 2019,0.0
+Conversational,['NO'],"['Decreasing', 'Unanswerable', 'Unanswerable', 'Unanswerable', 'Decrease']",decrease,1.0
+Conversational,['YES'],"['650', '[2013, 2015]', '500', '2019']",2019,1.0
+Conversational,['NO'],"['April', '0.3%', '135000', '-92.25%', '-0.1%', 'No', 'June (J)']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],3.1,0.0
+Multi Choice,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Yes'],unanswerable,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['Dem/ Lean Dem'],Dem/Lean Dem,0.9230769230769231
+Factoid,['NO'],['2.33'],"[0.75, 0.25]",0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['208'],[204],1.0
+Factoid,['NO'],['1'],0.8,0.0
+Conversational,['NO'],"['[Latinos, Hispanic]', 'Latinos']",Race/Ethnicity,0.0
+Factoid,['NO'],['Less'],unanswerable,0.0
+Conversational,['NO'],"['11', '2.49', 'Coal']",Wind,0.0
+Conversational,['NO'],"['11', '2.49', 'Coal', 'Hydroelectric', '25%', 'Yes']",unanswerable,0.0
+Factoid,['NO'],['September'],May,0.0
+Factoid,['NO'],['39%'],39,1.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['Material well-being'],Family,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['300'],$350 billion,0.0
+Hypothetical,['NO'],['90'],unanswerable,0.0
+Factoid,['NO'],['17000'],"35,000",0.0
+Conversational,['NO'],"['[Snake River Chinook salmon, summer steelhead salmon]', '']",4,0.0
+Conversational,['YES'],"['[Snake River Chinook salmon, summer steelhead salmon]', '', '2000', '']",400000,0.0
+Multi Choice,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['14692'],"14,692",0.8333333333333334
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['5'],3,0.0
+Factoid,['NO'],['78%'],78,1.0
+Multi Choice,['NO'],['A'],d,0.0
+Factoid,['NO'],['50%'],unanswerable,0.0
+Factoid,['NO'],['31'],[37],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1'],Top 25% of users,0.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],4,0.0
+Conversational,['NO'],"['3.3', 'algeria 2.5, greenland 2.5,']",unanswerable,0.0
+Conversational,['NO'],"['3.3', 'algeria 2.5, greenland 2.5,', '4.7,', 'Less']",Less,1.0
+Conversational,['NO'],"['2018', '39%', '16%']",16%,1.0
+Conversational,['YES'],"['2018', '39%', '16%', 'Tech Companies', '10%', 'Decreasing', '2021']",'21,0.0
+Factoid,['NO'],['2432'],978,0.0
+Factoid,['NO'],['36.2 million'],[36.4],0.0
+Factoid,['NO'],['384000000'],"$936,643,903",0.0
+Factoid,['NO'],['2051'],1983,1.0
+Factoid,['NO'],['2'],0,0.0
+Factoid,['NO'],['Unanswerable'],15000,0.0
+Factoid,['NO'],['7.14'],7.13,1.0
+Factoid,['NO'],['2432'],2397,1.0
+Factoid,['NO'],['Unanswerable'],!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Conversational,['NO'],"['2009', '433K']",50,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['49.5'],[347],0.0
+Factoid,['NO'],['41%'],37,0.0
+Conversational,['NO'],"['0.7 M', '0.02 M']",0.9M,0.0
+Factoid,['NO'],['0.243 million'],0.35M,0.0
+Conversational,['NO'],"['2432', 'Q4']",Q4,1.0
+Factoid,['NO'],['222837'],252639,0.0
+Factoid,['NO'],['0'],0.8%,0.0
+Conversational,['NO'],"['2009', '433K', '292K', 'Yes']",unanswerable,0.0
+Hypothetical,['NO'],['Yes'],Yes,1.0
+Conversational,['NO'],"['0.7 M', '0.02 M', 'Yes', 'Yes']",Yes,1.0
+Conversational,['NO'],"['2432', 'Q4', '100', '155', 'VA']",VA,1.0
+Factoid,['YES'],['2020'],2019,0.0
+Hypothetical,['NO'],['180'],400,0.0
+Factoid,['NO'],['Unanswerable'],5%,0.0
+Hypothetical,['NO'],['Decrease'],decreases,0.8888888888888888
+Factoid,['NO'],['12'],[12],1.0
+Factoid,['NO'],['100'],98,1.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Fact Checking,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['0'],35,0.0
+Factoid,['NO'],['green'],Green,1.0
+Factoid,['NO'],['3'],3,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['1'],[3],0.0
+Factoid,['NO'],['77%'],77%,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['Unanswerable'],51.4%,0.0
+Conversational,['NO'],"['infographic', 'American Indians, African Americans']","American Indians, African Americans",1.0
+Conversational,['NO'],"['infographic', 'American Indians, African Americans', 'Caucasians, Alslans', '12%']","17,084",0.0
+Factoid,['NO'],['334 million'],348M,0.0
+Factoid,['NO'],['9'],13,0.0
+Factoid,['NO'],['Unanswerable'],[6.5],0.0
+Conversational,['NO'],"['[Share of Voting-Eligible, Share of Potential Beneficiaries]', 'New Registrations']",New registrations,1.0
+Conversational,['NO'],"['[Share of Voting-Eligible, Share of Potential Beneficiaries]', 'New Registrations', '[2, 3, 10, 11]', 'Share of Potential Beneficiaries', '11']",unanswerable,0.0
+Factoid,['NO'],['17'],[86],0.0
+Multi Choice,['NO'],['B'],b,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1406'],[406],0.0
+Factoid,['NO'],['3014940'],308976,0.0
+Factoid,['NO'],['Unanswerable'],41,0.0
+Conversational,['NO'],"['Competitor', 'No']",unanswerable,0.0
+Conversational,['NO'],"['Competitor', 'No', 'The largest group is unsure (33%), but a combined 59% see it as at least a minor threat. Only a small portion (7%) see it as no threat', 'Again, the difference is minimal. Both Republicans and Democrats have nearly identical percentages viewing it as a major or minor threat', 'The image suggests that regardless of party affiliation, Americans have a largely unified, and somewhat negative, view of Russia, and they perceive the military buildup near Ukraine as a concern']",Unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['10'],5,0.0
+Factoid,['NO'],['26.5'],39,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Conversational,['NO'],"['55%', '[Poland, Israel]']",Poland and Greece,0.0
+Conversational,['NO'],"['55%', '[Poland, Israel]', 'No', '[Canada, Mexico]']",South Korea,0.0
+Factoid,['NO'],['500'],[500],1.0
+Fact Checking,['NO'],['True'],false,0.0
+Multi Choice,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['1800.22'],1050,0.0
+Factoid,['NO'],['8'],937.5,0.0
+Factoid,['NO'],['Red'],Blue,0.0
+Factoid,['NO'],['0.16'],"[-25, 25]",0.0
+Factoid,['NO'],['80'],180,0.0
+Factoid,['NO'],['Patrick Cripps'],Clayton Oliver,0.0
+Factoid,['NO'],['Unanswerable'],40%,0.0
+Factoid,['NO'],['Unanswerable'],35 million tons,0.0
+Factoid,['NO'],['Weekly Index'],Federal Budget release,0.0
+Factoid,['NO'],['60%'],60%,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['9.67'],[9],0.0
+Factoid,['NO'],['Strong Leader'],"['Opinion Group A', 'Opinion Group B']",0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['xmas'],Delta,0.0
+Factoid,['NO'],['July'],May-12,0.0
+Factoid,['NO'],['55%'],unanswerable,0.0
+Factoid,['NO'],['UK'],Australia,0.0
+Factoid,['NO'],['1.9'],[1.7],0.0
+Factoid,['NO'],['December 2014'],Apr-14,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Multi Choice,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['761'],499,0.0
+Hypothetical,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Brisbane'],Leichhardt,0.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['D'],a,0.0
+Fact Checking,['NO'],['True'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],0.85%,0.0
+Conversational,['NO'],"['5', '22.7']",25%,0.0
+Multi Choice,['NO'],['A'],b,0.0
+Factoid,['NO'],['0.05'],2.95%,0.0
+Conversational,['NO'],"['4.67', '5%']",unanswerable,0.0
+Multi Choice,['NO'],['C'],b,0.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Conversational,['NO'],"['Environmental sustainability', '-2.9%', '2015 to 2018']",unanswerable,0.0
+Conversational,['NO'],"['5', '22.7', '0.2', '0.069']",0.4,0.0
+Conversational,['NO'],"['4.67', '5%', '15000', '38%', '24']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['1.84'],[1.83],1.0
+Fact Checking,['NO'],['True'],true,1.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['9%'],21,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Conversational,['NO'],"['Higher (PDO)', '48']",40,0.0
+Conversational,['NO'],"['Higher (PDO)', '48', '20/week', 'May-July 2019']",unanswerable,0.0
+Conversational,['NO'],"['5', 'Unanswerable']",90,0.0
+Conversational,['NO'],"['5', 'Unanswerable', 'Germany and Australia', 'Unanswerable', 'Unanswerable']",10,0.0
+Factoid,['NO'],['7.99'],7.89,1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Hypothetical,['NO'],['7.72'],8.97,0.0
+Conversational,['NO'],"['6.234', '1.762']",unanswerable,0.0
+Conversational,['NO'],"['6.234', '1.762', 'Decrease', '0.55']",6.54,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],8,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['6.8'],34,0.0
+Factoid,['NO'],['UK'],UK,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['33.33%'],unanswerable,0.0
+Factoid,['NO'],['Fort Hood'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],77.56%,0.0
+Factoid,['NO'],['Chairs'],Chairs,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Multi Choice,['NO'],['Unanswerable'],d,0.0
+Factoid,['NO'],['Unanswerable'],"[30, 14]",0.0
+Factoid,['NO'],['Nevada'],South Dakota,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['15'],[13],0.0
+Conversational,['NO'],"['Dark blue', '68.2']",79,0.0
+Conversational,['NO'],"['Dark blue', '68.2', '56', 'Turkey']",unanswerable,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],"[""['Generalist, Forest generalist']""]","Boreal forests, Western forests",0.0
+Factoid,['NO'],['Unanswerable'],75 million,0.0
+Hypothetical,['NO'],['4.24'],[8.93],0.0
+Conversational,['NO'],"['[# filed, % omitted, % withdrawn, % voted]', '2016']",2016,1.0
+Conversational,['NO'],"['[# filed, % omitted, % withdrawn, % voted]', '2016', 'unanswerable', 'steady increase', 'yes']",yes,1.0
+Factoid,['NO'],['13'],unanswerable,0.0
+Factoid,['NO'],['Yes'],['Answer1'],0.0
+Factoid,['NO'],['Liver'],Liver,1.0
+Conversational,['NO'],"['21', 'Unanswerable']",Non-Hodgkin Lymphoma,0.0
+Conversational,['NO'],"['21', 'Unanswerable', 'Thyroid', 'Pancreas', '10000']",10000,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['Marin County'],Napa County,0.6666666666666667
+Factoid,['NO'],['Unanswerable'],52%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['YES'],['1984'],1970,0.0
+Factoid,['YES'],['2021'],2021,1.0
+Factoid,['NO'],['20'],unanswerable,0.0
+Conversational,['NO'],"['[God, Angels or Benevolent Spirits, Heaven]', '64 to 98', 'Unanswerable']",unanswerable,1.0
+Conversational,['NO'],"['[God, Angels or Benevolent Spirits, Heaven]', '64 to 98', 'Unanswerable', 'Pray daily', '12%', 'No']",More actions,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['2261'],58,0.0
+Conversational,['NO'],"['Pie Chart', 'Yes', '1.22']",2.29,0.0
+Factoid,['NO'],['8.75'],[20],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Big w'],Online food,0.0
+Factoid,['NO'],['0.5'],53,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['25.2%'],25.2,1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Multi Choice,['NO'],['A'],b,0.0
+Conversational,['NO'],"['375K', '135K']",20000,0.0
+Conversational,['NO'],"['375K', '135K', 'IT', 'Unasnwerable']",unanswerable,0.8333333333333334
+Factoid,['NO'],['8'],7,0.0
+Factoid,['NO'],['Reading'],Mathematics,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],"Police violence, Detention or arrest",0.0
+Multi Choice,['NO'],['C'],c,1.0
+Conversational,['NO'],"['Government abuses', 'India, Poland, United States']","India, Poland, United States",1.0
+Factoid,['NO'],['30%'],[38.5],0.0
+Conversational,['NO'],"['Government abuses', 'India, Poland, United States', 'United States', '30%']",40%,0.0
+Factoid,['NO'],['March'],April,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['-26.4%'],-26.4%,1.0
+Factoid,['YES'],['2018'],2018,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['2'],35%,0.0
+Hypothetical,['NO'],['U.S'],Philadelphia County,0.0
+Hypothetical,['NO'],['59.3'],58.33,1.0
+Factoid,['YES'],['2021'],2019,0.0
+Factoid,['NO'],['4'],3,0.0
+Factoid,['NO'],['Unanswerable'],[14],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['November 2020'],November 2020,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['557.46', 'No', '1970s']",1980,0.6
+Factoid,['NO'],['31.4151'],unanswerable,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['1379'],27,0.0
+Conversational,['NO'],"['60%', '5%']",9,0.0
+Conversational,['NO'],"['60%', '5%', '0%', '39%']",39,1.0
+Factoid,['NO'],['Veggie'],XXL,0.0
+Factoid,['YES'],['2017'],2019,0.0
+Factoid,['NO'],['59.34%'],30%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['43%'],[64.3%],0.0
+Conversational,['NO'],"['Black Death (Bubonic Plague)', '4']",3.25,0.0
+Conversational,['NO'],"['Black Death (Bubonic Plague)', '4', 'Covid-19', '681.2%']",6.9%,0.0
+Factoid,['NO'],['Desktop PC'],Smartphone,0.0
+Factoid,['NO'],['Unanswerable'],[108.3%],0.0
+Factoid,['NO'],['1'],4,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],[97],0.0
+Factoid,['NO'],['89.99'],56%,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Factoid,['NO'],['37.5%'],8%,0.0
+Factoid,['NO'],['72875525'],"48,423,868",0.0
+Factoid,['NO'],['Israel'],Australia,0.0
+Multi Choice,['NO'],['D'],d,1.0
+Factoid,['NO'],['Unanswerable'],"5,931",0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['32%'],32%,1.0
+Factoid,['NO'],['MERS outbreak'],MERS outbreak,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['23%'],50%,0.0
+Factoid,['NO'],['1990s'],['2000s'],0.0
+Conversational,['NO'],"['1485', '952', '3']",3,1.0
+Factoid,['NO'],['22.8'],22.8,1.0
+Factoid,['NO'],['2%'],2%,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Groceries'],Groceries,1.0
+Conversational,['NO'],"['Boomers', '14%']",4%,0.0
+Conversational,['NO'],"['Boomers', '14%', 'Gen Z', 'Millennials', 'Medical']",Medical,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],$340 billion,0.0
+Factoid,['NO'],['CentralW05'],South West W03,0.0
+Multi Choice,['NO'],['D'],d,1.0
+Factoid,['NO'],['336.3'],376.3,0.0
+Hypothetical,['NO'],['1250'],2478,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Conversational,['NO'],"['Face Recognition Technology', '19', 'good']",Bad,0.0
+Conversational,['NO'],"['Face Recognition Technology', '19', 'good', 'no', 'Robotics Exoskeletons', 'No']",unanswerable,0.0
+Factoid,['NO'],['0.5'],0.5°C,0.6
+Hypothetical,['NO'],['50463'],4533,0.0
+Factoid,['NO'],['Unanswerable'],4.7%,0.0
+Multi Choice,['NO'],['A'],c,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],1%,0.0
+Factoid,['NO'],['400'],[143],0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['3'],4,0.0
+Factoid,['NO'],['February 2017'],A,0.0
+Factoid,['NO'],['31'],38,0.0
+Factoid,['NO'],['Unanswerable'],"1,070,000",0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['NO'],"['62', '114', '58']",34,0.0
+Conversational,['NO'],"['62', '114', '58', '1911-1913', '1913-1915', 'Democrats']",Democrats,1.0
+Factoid,['NO'],['20 minutes'],"3 hours, 4 minutes",0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['M3'],M2,0.0
+Conversational,['NO'],"['1 day', '0']",4,0.0
+Conversational,['NO'],"['1 day', '0', 'M1', 'M2']",M1,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['D'],a,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Manayunk'],Manayunk,1.0
+Factoid,['NO'],['41'],41,1.0
+Factoid,['YES'],['2015'],1965,0.0
+Factoid,['NO'],['Japan'],Germany,0.0
+Multi Choice,['NO'],['C'],a,0.0
+Factoid,['NO'],['Unanswerable'],63.7%,0.0
+Conversational,['NO'],"['Dashboard', '[Line charts, Donut chart, Area chart]']",unanswerable,0.0
+Conversational,['NO'],"['Dashboard', '[Line charts, Donut chart, Area chart]', '110.64k', '[91.61k, 37.36k]', '[69.72k, 96.32k]']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],35,0.0
+Multi Choice,['NO'],['D'],b,0.0
+Factoid,['NO'],['29.1%'],unanswerable,0.0
+Factoid,['NO'],['1.1'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['[Multiracial, Hispanic, Asian, Black, Asian, NHPI, White]', '58', 'Hispanic']",AIAN,0.0
+Conversational,['NO'],"['[Multiracial, Hispanic, Asian, Black, Asian, NHPI, White]', '58', 'Hispanic', '47', 'NHPI', 'Black']",Hispanic,0.0
+Factoid,['NO'],['Unanswerable'],76,0.0
+Factoid,['NO'],['4'],3.6,0.0
+Conversational,['YES'],"['Line Chart', '2001']",2023,0.0
+Conversational,['NO'],"['Line Chart', '2001', '3.7%', 'Yes', 'Yes']",Yes,1.0
+Factoid,['NO'],['Asian'],Asian,1.0
+Factoid,['NO'],['Unanswerable'],140%,0.0
+Conversational,['NO'],"['[N.Y.C., D.C., Baltimore, Phila.]', '20.3', '[N.Y.C., D.C.]']","N.Y.C., D.C",0.7857142857142857
+Conversational,['NO'],"['[N.Y.C., D.C., Baltimore, Phila.]', '20.3', '[N.Y.C., D.C.]', 'Phila', '5', 'unanswerable', '1.353']",2.0,0.0
+Factoid,['NO'],['Reddit'],Facebook,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['214000'],214000,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['2%'],0.17,0.0
+Factoid,['NO'],['87.9%'],87.9,1.0
+Conversational,['NO'],"['Anticipation of Obama gun-control measures', 'Decreased', '36%']",-94.9%,0.0
+Factoid,['NO'],['74.9'],74.9%,1.0
+Factoid,['NO'],['1130000000'],"387,409,650",0.0
+Factoid,['NO'],['1.44'],unanswerable,0.0
+Factoid,['NO'],['17'],[31],0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['Unanswerable'],6.5%,0.0
+Factoid,['NO'],['2011-2020'],2005-2006 to 2017-2020,0.0
+Factoid,['NO'],['1'],4,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['2'],3,0.0
+Factoid,['NO'],['29.15%'],70.9%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['695.75'],unanswerable,0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['36.3%'],unanswerable,0.0
+Conversational,['NO'],"['Soft landing, Hard landing, No landing', 'Soft landing']",Soft landing,1.0
+Conversational,['NO'],"['iPhone', 'Mac']",iPod,0.0
+Factoid,['NO'],['5.5%'],30%,0.0
+Factoid,['NO'],['0.65625'],5.3,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['NO'],"['Soft landing, Hard landing, No landing', 'Soft landing', 'No landing', '5%']",12%,0.0
+Conversational,['NO'],"['iPhone', 'Mac', '2010', 'Services', 'Unanswerable']",$60B,0.0
+Factoid,['NO'],['51.5'],54.5,0.0
+Hypothetical,['NO'],['Below'],Below,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['12.29'],unanswerable,0.0
+Factoid,['NO'],['80-90'],Lowest Quintile,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['Democrat', 'William Henry Harison']",Barack Obama,0.0
+Conversational,['NO'],"['Democrat', 'William Henry Harison', '3', 'Republican', '0.57']",0.567,1.0
+Multi Choice,['NO'],['A'],c,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['9.09%'],39%,0.0
+Hypothetical,['NO'],"[""['393, 57, 164']""]",[634],0.0
+Factoid,['NO'],['04:00 AM'],04:00AM,0.875
+Factoid,['NO'],['No'],unanswerable,0.0
+Conversational,['NO'],"['Bitcoin', '26,000']",2500,0.0
+Conversational,['NO'],"['Bitcoin', '26,000', '125', '00:00-04:00 AM', '03:00-04:00 AM']",04:00 AM,0.5714285714285714
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['5354'],"7,536",0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['106'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['7'],[104/18],0.0
+Factoid,['NO'],['Singapore'],China,0.0
+Factoid,['NO'],['Unanswerable'],Americas,0.0
+Hypothetical,['NO'],['6'],54,0.0
+Factoid,['NO'],['0.382'],38.2%,0.0
+Factoid,['NO'],['40'],357,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['Warren Buffett'],Mark Zuckerberg,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['5'],10,0.0
+Factoid,['NO'],['3.03 billion tonnes'],[138.4],0.0
+Factoid,['NO'],['14'],"[1984, 1989, 1990, 1993, 1997, 1999, 2000, 2003, 2006, 2008, 201",0.0
+Factoid,['NO'],['1.5'],unanswerable,0.0
+Conversational,['NO'],"['Aug 21-28', '[Mining, Logging]']","Mining, Logging",0.0
+Conversational,['NO'],"['Aug 21-28', '[Mining, Logging]', '[Outside concessions, Palm oil]', '64', 'decreasing']",Increasing,0.8
+Factoid,['NO'],['The Incredible Hulk (2008)'],The Incredible Hulk (2008),1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['April 2023', '[General Abdel Fattah al-Burhan, General Mohamed Hamdan Dagalo, (Hemedti)]']","General Abdel Fattah al-Burhan
+General Mohamed Hamdan Dagalo",0.8108108108108107
+Conversational,['NO'],"['April 2023', '[General Abdel Fattah al-Burhan, General Mohamed Hamdan Dagalo, (Hemedti)]', '67', '6']",5,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['Unanswerable'],$12K,0.0
+Factoid,['NO'],['Unanswerable'],[450%],0.0
+Factoid,['NO'],['Unanswerable'],35%,0.0
+Hypothetical,['NO'],['0.5'],0.47,0.0
+Factoid,['NO'],['22%'],22%,1.0
+Factoid,['NO'],['12'],[143],0.0
+Conversational,['NO'],"['7 hours', 'Physical']",Mental,0.0
+Conversational,['NO'],"['7 hours', 'Physical', '6.7', '6', '65']",65,1.0
+Factoid,['NO'],['6'],3,0.0
+Factoid,['NO'],['2'],3,0.0
+Conversational,['NO'],"['June', 'April']",April,1.0
+Conversational,['NO'],"['June', 'April', 'positive', 'September', 'less']",less,1.0
+Factoid,['NO'],['23.46%'],13.7%,0.0
+Hypothetical,['NO'],['Female'],FEMALE,1.0
+Factoid,['NO'],['68%'],68,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['6.5k'],3.07%,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['7'],0.7,0.0
+Factoid,['NO'],['8%'],8%,1.0
+Factoid,['NO'],['9.19'],9.63,1.0
+Conversational,['NO'],"['Infographic', '6']",8,0.0
+Conversational,['NO'],"['Infographic', '6', 'S. America + Caribbean', 'St. Vincent and the Grenadines', '39.4']",2.2,0.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Factoid,['NO'],['12%'],31,0.0
+Factoid,['NO'],['Unanswerable'],3500,0.0
+Factoid,['NO'],['1'],[18],0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['193.4'],184.2,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['1.53'],"[44, 63, 31, 64, 41]",0.0
+Factoid,['NO'],['Unanswerable'],13.25%,0.0
+Factoid,['NO'],['0.547'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['No'],unanswerable,0.0
+Conversational,['NO'],"['65.33', '[Penn Alexander Elementary, 0.64]', '[Bryant Elementary, 0.23]']",unanswerable,0.0
+Factoid,['NO'],['97%'],97%,1.0
+Factoid,['NO'],['84.88 million'],$63.2M,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['272.25'],267,1.0
+Factoid,['NO'],['1.8'],$18.37,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['1.4 billion'],1.49 billion,0.9166666666666666
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['2018'],-389,0.0
+Factoid,['NO'],['3'],[1],0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['54%'],47%,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['Business process innovation'],Product innovation,0.5185185185185186
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['16.18%'],[15],0.0
+Factoid,['NO'],['2.8433'],38.4%,0.0
+Factoid,['NO'],['Alta'],Quebec,0.0
+Factoid,['NO'],['1.7%'],8.7%,0.0
+Factoid,['NO'],['2.3'],[7.3],0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['14.85'],3.9%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],43%,0.0
+Conversational,['NO'],"['Infographic', '59%']",1:1,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['145'],83%,0.0
+Factoid,['NO'],['615'],[365],0.0
+Conversational,['NO'],"['1.94', 'More', 'Yes']",Yes,1.0
+Conversational,['NO'],"['Infographic', '59%', '30.6%', '60']",48,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['2381'],"2,381",0.8
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['40.9'],37.6,0.0
+Factoid,['NO'],['0.41'],[0.34],0.0
+Factoid,['NO'],['No Action'],No action,1.0
+Factoid,['NO'],['Pakistan'],Ethiopia,0.0
+Factoid,['NO'],['Unanswerable'],40%,0.0
+Factoid,['NO'],['11%'],10%,0.0
+Hypothetical,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['832B'],$635B,0.0
+Factoid,['NO'],['Unanswerable'],30%,0.0
+Factoid,['NO'],['15.5'],38.8%,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['GLaM'],GLaM,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['PIJS'],"[Norway, Estonia, Sweden, Finland]",0.0
+Factoid,['NO'],['May 2021'],July,0.0
+Fact Checking,['NO'],['False'],false,1.0
+Factoid,['NO'],['1.309'],3.5,0.0
+Factoid,['NO'],['7665'],"7,665",0.8
+Factoid,['NO'],['October 26'],Oct. 26,0.6
+Factoid,['NO'],['6'],5 mcg/dL,0.0
+Factoid,['NO'],['Unanswerable'],"81,000",0.0
+Factoid,['NO'],['1'],3,0.0
+Factoid,['NO'],['153.5'],-7,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['Undergraduates'],Undergraduates,1.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['Unanswerable'],$30.00,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],Lula,0.0
+Conversational,['NO'],"['Deforestation accelerated', '[Lula, Bolsonaro]']","Lula, Bolsonaro",0.0
+Conversational,['NO'],"['Deforestation accelerated', '[Lula, Bolsonaro]', 'Lula', '2003-2011', 'No']",Yes,0.0
+Factoid,['NO'],['170218'],750000,0.0
+Factoid,['NO'],['2'],3,0.0
+Conversational,['NO'],"['United States', '265']",270,1.0
+Conversational,['NO'],"['United States', '265', '230', 'United States']",Sweden,0.0
+Factoid,['NO'],['Unanswerable'],-75%,0.0
+Factoid,['NO'],['6641'],5903,0.0
+Factoid,['NO'],['228797'],unanswerable,0.0
+Factoid,['NO'],['West'],South,0.0
+Factoid,['NO'],['11'],[4],0.0
+Factoid,['NO'],['Vietnam'],Vietnam,1.0
+Factoid,['NO'],['1900'],3500 Gg/1000 tonnes,0.0
+Factoid,['NO'],['26%'],26%,1.0
+Factoid,['NO'],['10.66'],unanswerable,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['NO'],"['[Bombers, Fighter/ attack/electronic warfare, attack helicopters]', 'Bombers']",Bombers,1.0
+Conversational,['NO'],"['[Bombers, Fighter/ attack/electronic warfare, attack helicopters]', 'Bombers', 'B-2 Spirit', 'Yes', 'Yes']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],40,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['12.3'],8.0,0.0
+Factoid,['NO'],['Unanswerable'],30000,0.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['5', 'Yes']",Yes,1.0
+Conversational,['NO'],"['5', 'Yes', '2009', '2010', 'Recession']",Unanswerable,0.0
+Factoid,['YES'],['2008'],2008,1.0
+Factoid,['NO'],['110'],107.5,1.0
+Factoid,['NO'],['1534.68'],4087,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['B'],c,0.0
+Conversational,['NO'],"['65+', '289']",70%,0.0
+Conversational,['NO'],"['65+', '289', '45-64', 'Yes']",unanswerable,0.0
+Factoid,['NO'],['12'],unanswerable,0.0
+Conversational,['NO'],"['50', 'Decreasing']",downward,0.0
+Conversational,['NO'],"['50', 'Decreasing', '9', '20']",4,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['1091'],unanswerable,0.0
+Factoid,['NO'],['2.4756'],306.8%,0.0
+Conversational,['NO'],"['[PCR+ COVID-19 Cases, COVID-19 Patients in Hospital, COVID-19 Patients in ICU]', '89.4']",89.4,1.0
+Conversational,['NO'],"['[PCR+ COVID-19 Cases, COVID-19 Patients in Hospital, COVID-19 Patients in ICU]', '89.4', '233.3', '20.3', 'COVID-19 Patients in Hospital']",PCR+ COVID-19 Cases,0.0
+Factoid,['NO'],['Beloit'],Kenosha,0.0
+Conversational,['NO'],"['3', 'White', 'Racine']",Beloit,0.0
+Conversational,['NO'],"['3', 'White', 'Racine', 'Milwaukee', 'Milwaukee', 'Yes']",Yes,1.0
+Factoid,['NO'],['Unanswerable'],10000,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],false,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['22'],36,0.0
+Conversational,['NO'],"['Facebook', 'Instagram']",Snapchat,0.0
+Conversational,['NO'],"['Facebook', 'Instagram', '2016', 'Instagram']",Twitter,0.0
+Factoid,['NO'],['212'],277,0.0
+Factoid,['NO'],['211'],[209],1.0
+Multi Choice,['NO'],['Unanswerable'],c,0.0
+Conversational,['NO'],"['46.99%', '26.1%', 'Unanswerable']",45,0.0
+Factoid,['YES'],['2011'],2015,0.0
+Conversational,['NO'],"['Mars', '6', 'Dairy Milk']",Twix,0.0
+Conversational,['NO'],"['Mars', '6', 'Dairy Milk', '[Mars, Galaxy, Twirl]', '8', '9']",unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],C#,0.0
+Factoid,['NO'],['Unanswerable'],8.7%,0.0
+Hypothetical,['NO'],['12.6%'],5%,0.0
+Multi Choice,['NO'],['B'],b,1.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['1157632'],"[1,097,845]",0.0
+Conversational,['NO'],"['409752', '0.2']",0.2,1.0
+Conversational,['NO'],"['409752', '0.2', 'Up, Toy Story 3', 'Equal', '0']",0.2,0.0
+Hypothetical,['NO'],['199.43'],[199.43],1.0
+Hypothetical,['NO'],['55.5'],5.5,0.0
+Factoid,['YES'],['1990'],2015,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Multi Choice,['NO'],['D'],b,0.0
+Multi Choice,['NO'],['A'],c,0.0
+Multi Choice,['NO'],['C'],a,0.0
+Factoid,['NO'],['98.2M'],34.6M,0.0
+Conversational,['NO'],"['No', '[Age 11 to 18, Age 75 and over]']",Age 4 to 10,0.2727272727272727
+Conversational,['NO'],"['No', '[Age 11 to 18, Age 75 and over]', 'Age 65 to 74', 'Age 19 to 64', '0.1%']",0.5%,0.0
+Factoid,['NO'],['307.25'],[4],0.0
+Factoid,['NO'],['6.96'],$6.96,0.8
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['5'],4,0.0
+Factoid,['NO'],['0.3639'],"478,179 / (372,683 + 478,179 + 353,591) * 100%",0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['NO'],['2'],4,0.0
+Factoid,['NO'],['3.19'],3.19,1.0
+Conversational,['NO'],"['11%', '15%']",15%,1.0
+Conversational,['NO'],"['11%', '15%', '35.71%', '1.34', '8%']",24-46%,0.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['48'],401,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['5.81 bilion', '4.565 Bilion']",27.3 billion tonnes,0.0
+Conversational,['NO'],"['5.81 bilion', '4.565 Bilion', '70%', '64%']",69%,0.0
+Factoid,['NO'],['March'],M,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['3%'],unanswerable,0.0
+Factoid,['NO'],['4'],3575,0.0
+Factoid,['NO'],['Leeds Rhinos'],Warrington Wolves,0.0
+Factoid,['NO'],['HFCs'],HFCs,1.0
+Factoid,['NO'],['1M'],unanswerable,0.0
+Factoid,['NO'],['43%'],58%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Conversational,['YES'],"['0.21', '0.32', '2024']",2024,1.0
+Conversational,['NO'],"['0.21', '0.32', '2024', '77', '2022', '43']",$61 billion,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['69%'],60.9%,0.0
+Factoid,['NO'],['90.5%'],85.5%,0.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['1181754.12'],"$1,323,769.09",0.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['4'],3,0.0
+Factoid,['NO'],['22'],[0.8],0.0
+Factoid,['NO'],['Unanswerable'],[20],0.0
+Conversational,['NO'],"['3.11', 'Yes']",Yes,1.0
+Conversational,['NO'],"['3.11', 'Yes', '232', 'Yes']",Yes,1.0
+Factoid,['NO'],['13%'],34%,0.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['5'],4,0.0
+Factoid,['NO'],['87%'],87%,1.0
+Conversational,['NO'],"['United States, Japan', '230B']",$416B,0.0
+Conversational,['NO'],"['United States, Japan', '230B', '37.2%', 'France']",Norway,0.0
+Factoid,['NO'],['23.33'],24.67,0.0
+Factoid,['NO'],['2.07'],[1.98],1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Hypothetical,['NO'],['5'],unanswerable,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['62.17'],9.4%,0.0
+Conversational,['NO'],"['Cristiano Ronaldo', '10']",4,0.0
+Conversational,['NO'],"['Cristiano Ronaldo', '10', 'Yes', 'Basketball', 'No']",Yes,0.0
+Factoid,['NO'],['Unanswerable'],450,0.0
+Factoid,['NO'],['35B'],14B,0.0
+Factoid,['NO'],['19-29'],unanswerable,0.0
+Multi Choice,['NO'],['B'],c,0.0
+Factoid,['NO'],['2.9'],"[6.1, 9.0]",0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['52.5K'],$30.9K,0.0
+Hypothetical,['NO'],['45.3K'],[30.2K * 1.5],0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['309.58'],"$3,099.75",0.0
+Factoid,['YES'],['2001'],2006,0.0
+Factoid,['NO'],['18.5%'],[23],0.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['2'],1,0.0
+Factoid,['NO'],['3.6'],0.4,0.0
+Factoid,['NO'],['Unanswerable'],$14.35,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],"[""WENDY'S""]",WENDY'S,1.0
+Factoid,['NO'],['14'],3,0.0
+Factoid,['NO'],['11.2%'],14.2%,0.0
+Factoid,['NO'],['Unanswerable'],40%,0.0
+Factoid,['NO'],['2'],3,0.0
+Hypothetical,['NO'],['5.2%'],5.6%,0.0
+Factoid,['NO'],['47.3m'],354.7,0.0
+Fact Checking,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['C'],c,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['True'],true,1.0
+Factoid,['NO'],['9%'],9%,1.0
+Hypothetical,['NO'],['Lower'],Higher,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['Lower'],Lower,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Conversational,['NO'],"['3', '3']",unanswerable,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Conversational,['NO'],"['3', '3', 'Doctoral, Bachelors, Masters', 'Research']",Research,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['YES'],['2013'],2015,0.0
+Factoid,['NO'],['July'],June,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['Unanswerable'],0.7%,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['4.55'],unanswerable,0.0
+Multi Choice,['NO'],['C'],c,1.0
+Factoid,['YES'],['2026'],2025,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Unanswerable'],350%,0.0
+Factoid,['NO'],['9.38'],9.38%,1.0
+Factoid,['NO'],['Unanswerable'],0.5,0.0
+Factoid,['NO'],['3.28%'],[0.07% + 2.56%] / 80.13% = 2.63%,0.0
+Conversational,['NO'],"['98.77', '69.08']",60.00 - 129.08,0.0
+Factoid,['NO'],['Unanswerable'],"104.0 Calories/Ounces, 6.5 Sugar/Ounces",0.0
+Factoid,['NO'],['B6WN'],AAO6,0.0
+Conversational,['NO'],"['98.77', '69.08', '3.58M', '298,333.33']",unanswerable,0.0
+Conversational,['NO'],"['Mixed Middle Market', 'Black Middle Market', 'Hispanic Middle Market']",White Middle Market,0.6818181818181819
+Factoid,['NO'],['304938'],"$304,938",0.75
+Factoid,['NO'],['TX public Schools Close'],TX Stay at Home Order Ends,0.0
+Factoid,['NO'],['Acco'],Eldon,0.0
+Factoid,['NO'],['0.1%'],0.8,0.0
+Factoid,['NO'],['29.73%'],[20.6],0.0
+Factoid,['NO'],['85.76%'],69.74%,0.0
+Conversational,['NO'],"['Sales Representative', 'Truck Driver']",Welfare support worker,0.0
+Conversational,['NO'],"['Sales Representative', 'Truck Driver', 'Chief executing officer or managing director', 'General manager']",Sales representative,0.0
+Factoid,['NO'],['High'],High,1.0
+Factoid,['NO'],['10107'],-1874,0.0
+Factoid,['NO'],['Unanswerable'],41,0.0
+Conversational,['NO'],"['B', '[Andy, Hunter]']",Michael,0.0
+Conversational,['NO'],"['B', '[Andy, Hunter]', 'Revival', 'Yes', 'Yes']",Yes,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['A'],a,1.0
+Factoid,['NO'],['27'],25,0.0
+Factoid,['NO'],['610367'],"$588,651,971",0.0
+Factoid,['NO'],['107995'],"127,985",0.5714285714285714
+Factoid,['NO'],['10'],unanswerable,0.0
+Factoid,['NO'],['50%'],50%,1.0
+Factoid,['NO'],['4769.8'],[10938],0.0
+Factoid,['NO'],['69.5%'],-65.3%,0.0
+Factoid,['NO'],['1.6 Trillion'],1.6 Trillion,1.0
+Factoid,['NO'],['104'],57,0.0
+Multi Choice,['NO'],['A'],a,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Multi Choice,['NO'],['D'],d,1.0
+Multi Choice,['NO'],['B'],a,0.0
+Factoid,['NO'],['27.5%'],37.6%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Below'],unanswerable,0.0
+Factoid,['NO'],['90'],"[69%, 75%, 73%]",0.0
+Multi Choice,['NO'],['B'],b,1.0
+Factoid,['NO'],['19%'],38.5%,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['0.37'],[3.64],0.0
+Multi Choice,['NO'],['D'],d,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['221385'],"89,375",0.0
+Factoid,['NO'],['6'],3,0.0
+Factoid,['NO'],['2.1M'],"[1,973,370]",0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['2.9'],3,1.0
+Multi Choice,['NO'],['Unanswerable'],a,0.0
+Factoid,['NO'],['45'],45,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['2%'],-34%,0.0
+Factoid,['NO'],['4.125%'],40%,0.0
+Multi Choice,['NO'],['D'],d,1.0
+Factoid,['NO'],['88.77 million'],[91.77],0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Conversational,['NO'],"['30.0', 'R80721']",R80721,1.0
+Conversational,['NO'],"['30.0', 'R80721', '24.1', '[R80711 Gearbox Bearing Temperature, R80790 Gearbox Bearing Temperature]']",R80790 and R80736,0.0
+Factoid,['NO'],['1.12'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],Islam,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Multi Choice,['NO'],['D'],d,1.0
+Factoid,['NO'],['Female'],Female,1.0
+Hypothetical,['NO'],['28670'],"39,267",0.0
+Factoid,['NO'],['-486'],3789,0.0
+Factoid,['NO'],['7'],13,0.0
+Conversational,['NO'],"['Ivy League', 'State']",State,1.0
+Conversational,['NO'],"['Ivy League', 'State', '$120,000', 'Massachusetts Institute of Technology', '19']",19,1.0
+Factoid,['NO'],['Chinese'],Chinese,1.0
+Factoid,['NO'],['Unanswerable'],40K,0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['3188.8'],3750000,0.0
+Conversational,['NO'],"['Singapore', 'Mexico', 'Indonesia']",São Paulo,0.0
+Conversational,['NO'],"['Singapore', 'Mexico', 'Indonesia', 'India', 'Russia', '149.5']",183,0.0
+Factoid,['NO'],['0.335'],-0.375 tonnes CO2e,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['58.6%'],75.3%,0.0
+Factoid,['NO'],['Unanswerable'],0:00,0.0
+Hypothetical,['NO'],['Yes'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Hypothetical,['NO'],['2'],unanswerable,0.0
+Factoid,['NO'],['Vietnam'],Vietnam,1.0
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['Spain'],Germany,0.0
+Factoid,['NO'],['Pancreas'],Breast,0.0
+Factoid,['NO'],['Affordable Care Act'],Affordable Care Act,1.0
+Factoid,['NO'],['Turkey'],Turkey,1.0
+Factoid,['YES'],['2011'],unanswerable,0.0
+Fact Checking,['NO'],['True'],true,1.0
+Fact Checking,['NO'],['False'],true,0.0
+Hypothetical,['NO'],['No'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],2000 TWh,0.0
+Conversational,['NO'],"['people defined as dependents and working people', '40']",38,1.0
+Factoid,['NO'],['Sao Tome and Principe'],Sao Tome and Principe,1.0
+Conversational,['NO'],"['800 millions', '900 millions']",5.3 billion,0.5833333333333333
+Conversational,['NO'],"['Germany', 'Canada and Belgium']",Germany and France,0.0
+Conversational,['NO'],"['Neonatal encephalopathy due to birth asphyxia and trauma', 'Boys']",Boys,1.0
+Conversational,['NO'],"['[1965, 2023]', '[1990s, 2000s, 2010s, 2020s]', 'Unanswerabe']",90s,0.0
+Conversational,['NO'],"['people defined as dependents and working people', '40', 'No', 'Increase', '20']",40,0.0
+Conversational,['NO'],"['Neonatal encephalopathy due to birth asphyxia and trauma', 'Boys', 'Unanswerable', 'Tuberculosis']",Congenital birth defects,0.0
+Conversational,['NO'],"['Germany', 'Canada and Belgium', '2020', 'Australia', '3%']",0.5%,0.0
+Conversational,['NO'],"['[1965, 2023]', '[1990s, 2000s, 2010s, 2020s]', 'Unanswerabe', '2700', '46.55', '2000s']",2000s,1.0
+Conversational,['NO'],"['800 millions', '900 millions', '2015', '6.3 billion', 'Unanswerable']",unanswerable,1.0
+Factoid,['NO'],['12.9%'],unanswerable,0.0
+Factoid,['NO'],['Harvard'],Cornell,0.0
+Fact Checking,['NO'],['True'],false,0.0
+Factoid,['NO'],['2141'],[897],0.0
+Factoid,['NO'],['10 years'],150+ mins brisk walking per week,0.0
+Multi Choice,['NO'],['D'],c,0.0
+Factoid,['NO'],['0.06425'],47.5%,0.0
+Factoid,['NO'],['Unanswerable'],2014,0.0
+Fact Checking,['NO'],['False'],true,0.0
+Factoid,['NO'],['Unanswerable'],45%,0.0
+Factoid,['NO'],['India'],Kenya,0.0
+Conversational,['NO'],"['Kenya', 'Indonesia']",Kenya,0.0
+Conversational,['NO'],"['Kenya', 'Indonesia', '[Early Marriage, Labour Force Participation, Maternal Mortality, Secondary Education]', '[Maternal Mortality]']",Labour Force Participation,0.0
+Factoid,['NO'],['Unanswerable'],[decline],0.0
+Hypothetical,['YES'],['2021'],2022,0.0
+Factoid,['NO'],['Unanswerable'],"52,970 TWh",0.0
+Factoid,['NO'],['Americas'],Europe,0.0
+Factoid,['NO'],['Unanswerable'],1985,0.0
+Factoid,['NO'],['Female infanticide'],Infanticide,0.6111111111111112
+Factoid,['NO'],['Unanswerable'],unanswerable,1.0
+Factoid,['NO'],['time'],time,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['8.66'],[7.89],0.0
+Factoid,['NO'],['54%'],43.7%,0.0
+Factoid,['NO'],['Unanswerable'],0.75,0.0
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['YES'],['2020'],2022,0.0
+Factoid,['NO'],['0.7874'],84.67%,0.0
+Factoid,['NO'],['0.0099'],0.65%,0.0
+Hypothetical,['NO'],['19.5%'],unanswerable,0.0
+Factoid,['NO'],['51666'],"[34,292]",0.0
+Factoid,['NO'],['8.66 million'],3.96 million,0.8333333333333334
+Multi Choice,['NO'],['A'],c,0.0
+Factoid,['NO'],['5'],3,0.0
+Conversational,['NO'],"['4', '[Policies and action, Optimistic scenario]']",Optimistic scenario,0.0
+Conversational,['NO'],"['4', '[Policies and action, Optimistic scenario]', 'Optimistic scenario', '50%']",-0.9°C,0.0
+Factoid,['NO'],['232'],[374],0.0
+Hypothetical,['NO'],['2'],unanswerable,0.0
+Factoid,['NO'],['Unanswerable'],0.13,0.0
+Fact Checking,['NO'],['Unanswerable'],false,0.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['NO'],['Female'],Females,0.8571428571428572
+Multi Choice,['NO'],['A'],a,1.0
+Fact Checking,['NO'],['Unanswerable'],true,0.0
+Factoid,['YES'],['2008'],2013,0.0
+Factoid,['NO'],['36'],120,0.0
+Factoid,['NO'],['50.09%'],57.8%,0.0
+Factoid,['NO'],['Unanswerable'],[0.3],0.0
+Factoid,['NO'],['4'],unanswerable,0.0
+Hypothetical,['NO'],['6.146'],6.4 tonnes,0.0
+Factoid,['NO'],['3'],6%,0.0
+Hypothetical,['NO'],['15.72'],46.1 billion tonnes CO2eq,0.0

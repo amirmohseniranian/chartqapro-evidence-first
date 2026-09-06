@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE",
+  "coverage": {
+    "path": "/content/drive/MyDrive/ChartQAPro_Evidence_First_Reasoning_perfopt_t4/predictions/direct/qwen2_5_vl_3b_instruct_direct.jsonl",
+    "file_exists": true,
+    "expected": 1948,
+    "records": 1948,
+    "compatible_records": 1948,
+    "successful_records": 1948,
+    "unique_completed_ids": 1948,
+    "missing": 0,
+    "unexpected": 0,
+    "duplicate_records_all": 0,
+    "duplicate_successful_records": 0,
+    "failed_or_non_ok_records": 0,
+    "incompatible_records": 0
+  },
+  "scores": {
+    "Factoid": 0.28498047856925685,
+    "Multi Choice": 0.411214953271028,
+    "Fact Checking": 0.4385245901639344,
+    "Hypothetical": 0.23137350178166505,
+    "Conversational": 0.31455285175568765,
+    "Overall": 0.32010494733264305
+  }
+}

@@ -1,0 +1,44 @@
+metric,value
+row_count,1948
+column_count,6
+image_decodable_count,1948
+image_decode_failure_count,0
+duplicate_question_image_rows,0
+missing_question,0
+missing_answer,0
+missing_question_type,0
+missing_year,0
+missing_image,0
+Question Type_value_count,"""Factoid"" => 1081"
+Question Type_value_count,"""Conversational"" => 311"
+Question Type_value_count,"""Fact Checking"" => 244"
+Question Type_value_count,"""Multi Choice"" => 214"
+Question Type_value_count,"""Hypothetical"" => 98"
+Year_value_count,"[""NO""] => 1582"
+Year_value_count,"[""NO"", ""NO""] => 117"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""NO""] => 55"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""NO"", ""NO""] => 52"
+Year_value_count,"[""Yes""] => 51"
+Year_value_count,"[""NO"", ""NO"", ""NO""] => 37"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""NO"", ""NO"", ""NO""] => 16"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""NO"", ""NO"", ""NO"", ""NO""] => 5"
+Year_value_count,"[""NO"", ""YES""] => 4"
+Year_value_count,"[""NO"", ""YES"", ""NO"", ""NO"", ""NO""] => 4"
+Year_value_count,"[""YES""] => 4"
+Year_value_count,"[""NO"", ""NO"", ""YES"", ""NO"", ""NO""] => 3"
+Year_value_count,"[""NO"", ""NO"", ""YES"", ""NO""] => 2"
+Year_value_count,"[""YES"", ""NO""] => 2"
+Year_value_count,"[""NO"", ""NO"", ""YES"", ""YES"", ""NO""] => 1"
+Year_value_count,"[""YES"", ""YES"", ""NO"", ""NO""] => 1"
+Year_value_count,"[""YES"", ""YES""] => 1"
+Year_value_count,"[""YES"", ""NO"", ""NO"", ""NO""] => 1"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""YES""] => 1"
+Year_value_count,"[""YES"", ""NO"", ""NO"", ""NO"", ""NO""] => 1"
+Year_value_count,"[""NO"", ""NO"", ""YES"", ""NO"", ""YES"", ""NO""] => 1"
+Year_value_count,"[""NO"", ""NO"", ""YES""] => 1"
+Year_value_count,"[""NO"", ""YES"", ""NO"", ""YES""] => 1"
+Year_value_count,"[""NO"", ""YES"", ""NO""] => 1"
+Year_value_count,"[""YES"", ""NO"", ""NO"", ""NO"", ""NO"", ""NO"", ""YES""] => 1"
+Year_value_count,"[""YES"", ""NO"", ""NO""] => 1"
+Year_value_count,"[""NO"", ""YES"", ""NO"", ""NO""] => 1"
+Year_value_count,"[""NO"", ""NO"", ""NO"", ""NO"", ""YES"", ""YES"", ""NO""] => 1"

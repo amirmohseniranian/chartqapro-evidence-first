@@ -1,0 +1,6 @@
+Question Type,official_score,official_score_percent
+Conversational,0.1725,17.25
+Fact Checking,0.4666666666666667,46.666666666666664
+Factoid,0.15303030303030302,15.303030303030301
+Hypothetical,0.21553030303030302,21.5530303030303
+Multi Choice,0.35,35.0

@@ -1,0 +1,18 @@
+{
+  "status": "INCOMPLETE",
+  "coverage": {
+    "path": "/content/drive/MyDrive/ChartQAPro_Evidence_First_Reasoning_perfopt_t4/predictions/evidence_first/smolvlm2_2_2b_instruct_evidence_first_subset.jsonl",
+    "file_exists": true,
+    "expected": 300,
+    "records": 300,
+    "compatible_records": 300,
+    "successful_records": 1,
+    "unique_completed_ids": 1,
+    "missing": 299,
+    "unexpected": 0,
+    "duplicate_records_all": 0,
+    "duplicate_successful_records": 0,
+    "failed_or_non_ok_records": 299,
+    "incompatible_records": 0
+  }
+}

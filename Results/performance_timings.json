@@ -1,0 +1,108 @@
+{
+  "PRIMARY-QWEN": {
+    "direct": {
+      "experiment_label": "PRIMARY-QWEN-DIRECT",
+      "total": 1948,
+      "completed_before": 0,
+      "remaining": 1948,
+      "batches": 390,
+      "selected_batch_size": 5,
+      "text_batch_size": 16,
+      "elapsed_s": 2026.586923504,
+      "throughput_rows_per_s": 0.9612220316865946,
+      "effective_batch_size_min": 3,
+      "effective_batch_size_median": 5.0,
+      "answer_effective_batch_size_min": null,
+      "answer_effective_batch_size_median": null,
+      "checkpoint_every_batches": 20,
+      "profile": {
+        "enabled": false
+      },
+      "final_gpu_memory": {
+        "allocated_mb": 2312.6,
+        "reserved_mb": 11540.0,
+        "max_allocated_mb": 3598.75,
+        "max_reserved_mb": 11540.0
+      }
+    },
+    "evidence_first": {
+      "experiment_label": "PRIMARY-QWEN-EFR",
+      "total": 1948,
+      "completed_before": 0,
+      "remaining": 1948,
+      "batches": 390,
+      "selected_batch_size": 5,
+      "text_batch_size": 16,
+      "elapsed_s": 8083.734835513999,
+      "throughput_rows_per_s": 0.2409777212683817,
+      "effective_batch_size_min": 3,
+      "effective_batch_size_median": 5.0,
+      "answer_effective_batch_size_min": 6,
+      "answer_effective_batch_size_median": 16.0,
+      "checkpoint_every_batches": 20,
+      "profile": {
+        "enabled": false
+      },
+      "final_gpu_memory": {
+        "allocated_mb": 2312.6,
+        "reserved_mb": 8514.0,
+        "max_allocated_mb": 3595.78,
+        "max_reserved_mb": 8514.0
+      }
+    },
+    "suite_elapsed_s": 10484.624993623998
+  },
+  "SECONDARY-SMOLVLM2": {
+    "direct": {
+      "experiment_label": "SECONDARY-SMOLVLM2-DIRECT",
+      "total": 300,
+      "completed_before": 0,
+      "remaining": 300,
+      "batches": 150,
+      "selected_batch_size": 2,
+      "text_batch_size": 16,
+      "elapsed_s": 398.15913799400005,
+      "throughput_rows_per_s": 0.7534675745769792,
+      "effective_batch_size_min": 2,
+      "effective_batch_size_median": 2.0,
+      "answer_effective_batch_size_min": null,
+      "answer_effective_batch_size_median": null,
+      "checkpoint_every_batches": 20,
+      "profile": {
+        "enabled": false
+      },
+      "final_gpu_memory": {
+        "allocated_mb": 4190.69,
+        "reserved_mb": 5294.0,
+        "max_allocated_mb": 5153.62,
+        "max_reserved_mb": 5294.0
+      }
+    },
+    "evidence_first": {
+      "experiment_label": "SECONDARY-SMOLVLM2-EFR",
+      "total": 300,
+      "completed_before": 0,
+      "remaining": 300,
+      "batches": 150,
+      "selected_batch_size": 2,
+      "text_batch_size": 16,
+      "elapsed_s": 424.2925902170009,
+      "throughput_rows_per_s": 0.7070592485401819,
+      "effective_batch_size_min": 2,
+      "effective_batch_size_median": 2.0,
+      "answer_effective_batch_size_min": 1,
+      "answer_effective_batch_size_median": 1,
+      "checkpoint_every_batches": 20,
+      "profile": {
+        "enabled": false
+      },
+      "final_gpu_memory": {
+        "allocated_mb": 4190.69,
+        "reserved_mb": 5346.0,
+        "max_allocated_mb": 5153.62,
+        "max_reserved_mb": 5346.0
+      }
+    },
+    "suite_elapsed_s": 873.1362203459994
+  }
+}

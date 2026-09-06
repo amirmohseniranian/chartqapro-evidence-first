@@ -1,0 +1,3318 @@
+[
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "Lower"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "lower"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "15.92"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.45"
+  },
+  {
+    "Answer": [
+      "1.4"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "9.6"
+  },
+  {
+    "Answer": [
+      "5200"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.4"
+  },
+  {
+    "Answer": [
+      "5 years"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "2"
+  },
+  {
+    "Answer": [
+      "82%",
+      "27.3"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "1.25"
+  },
+  {
+    "Answer": [
+      "Venezuela",
+      "Saudi Arabia"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "angola"
+  },
+  {
+    "Answer": [
+      "Venezuela",
+      "Saudi Arabia",
+      "2.8%",
+      "No"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "-556.39"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "-1,091.0"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "$866.55"
+  },
+  {
+    "Answer": [
+      "15.45"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "10.5"
+  },
+  {
+    "Answer": [
+      "2012"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "YES"
+    ],
+    "prediction": "2005"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "March"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Apr 2020]"
+  },
+  {
+    "Answer": [
+      "4000",
+      "decrease"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "decrease"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "2010"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "YES"
+    ],
+    "prediction": "1995"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.5"
+  },
+  {
+    "Answer": [
+      "5"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "c"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "0.1"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "10"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "c"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "GDP",
+      "Libya",
+      "unanswerable",
+      "Ireland"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "qatar"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "74.457"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "-11.61"
+  },
+  {
+    "Answer": [
+      "Different"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "similar"
+  },
+  {
+    "Answer": [
+      "Demand trend",
+      "[Day ahead forecast, Hour ahead forecast, Demand (5 min. avg.)]"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "demand"
+  },
+  {
+    "Answer": [
+      "7",
+      "40K",
+      "50%",
+      "53%",
+      "Yes",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "[Obama, Romney]",
+      "unanswerable"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "Obama, Romney"
+  },
+  {
+    "Answer": [
+      "[Obama, Romney]",
+      "unanswerable",
+      "unanswerable",
+      "Obama",
+      "unanswerable"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "Obama, Romney"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "-18.2"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "-18"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.9"
+  },
+  {
+    "Answer": [
+      "25%",
+      "2020",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "YES",
+      "NO"
+    ],
+    "prediction": "2009"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Increasing",
+      "32",
+      "25th September",
+      "5",
+      "No"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "34.5"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "$1.8 billion"
+  },
+  {
+    "Answer": [
+      "D"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "6.5"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "likely"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unlikely"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "c"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "Line graphs",
+      "4",
+      "January",
+      "July",
+      "Daily tests",
+      "Daily Deaths"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "january"
+  },
+  {
+    "Answer": [
+      "1",
+      "Native American"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "black"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "25%",
+      "Increasing"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "decreasing"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "423K"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.1m"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "74757"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "-1,000"
+  },
+  {
+    "Answer": [
+      "10%"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "60"
+  },
+  {
+    "Answer": [
+      "6"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "10"
+  },
+  {
+    "Answer": [
+      "40"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "15"
+  },
+  {
+    "Answer": [
+      "Silver Spot"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "gold spot"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "34.94"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "31.76 * 1.1"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "10%"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "14.5"
+  },
+  {
+    "Answer": [
+      "31.3%",
+      "3.2",
+      "54.55%",
+      "Yes",
+      "17%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "7.2"
+  },
+  {
+    "Answer": [
+      "House"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "house"
+  },
+  {
+    "Answer": [
+      "SC/ST"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "ocb"
+  },
+  {
+    "Answer": [
+      "Spain"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Colombia, Mexico]"
+  },
+  {
+    "Answer": [
+      "Decreasing",
+      "2015-2019",
+      "365000",
+      "No",
+      "[Negative gearing threat, COVID-19]",
+      "5556"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "10000"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "3.75"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[10000:1000000]"
+  },
+  {
+    "Answer": [
+      "74%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "56%"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "4"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "4"
+  },
+  {
+    "Answer": [
+      "Before day 150"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "before"
+  },
+  {
+    "Answer": [
+      "640000"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "320000"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Decrease"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "decrease"
+  },
+  {
+    "Answer": [
+      "2011-12"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[2014, 2015]"
+  },
+  {
+    "Answer": [
+      "-2.36%",
+      "Less"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "less than"
+  },
+  {
+    "Answer": [
+      "-2.36%",
+      "Less",
+      "Cyclical",
+      "Smoothed"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "3.60%"
+  },
+  {
+    "Answer": [
+      "D"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "['34.5%, 38.5%']"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[1.75, 2.1]"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "351"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[9, 8, 4]"
+  },
+  {
+    "Answer": [
+      "1993",
+      "2003",
+      "50000",
+      "Yes, 2007, 2012"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "YES",
+      "YES",
+      "NO",
+      "NO"
+    ],
+    "prediction": "1992"
+  },
+  {
+    "Answer": [
+      "15 runs",
+      "Marlon Samuels"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "14"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "10",
+      "1",
+      "50",
+      "5 per year",
+      "Similar",
+      "Less"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "less"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Mississippi, alabama, alaska]"
+  },
+  {
+    "Answer": [
+      "238500"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "120000"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "54"
+  },
+  {
+    "Answer": [
+      "839"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "403"
+  },
+  {
+    "Answer": [
+      "Tablet"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "desktop"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "c"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "8000"
+  },
+  {
+    "Answer": [
+      "Dec"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Dec, Jan]"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "22449"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "17296"
+  },
+  {
+    "Answer": [
+      "143",
+      "36.36%",
+      "less",
+      "5",
+      "22"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "11"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "[US, China]",
+      "lower",
+      "January 2018"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "Jun 2017"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "11.7"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "9.5"
+  },
+  {
+    "Answer": [
+      "More likely"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "less likely"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[89, 89]"
+  },
+  {
+    "Answer": [
+      "4"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "5"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "42.33%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.36667"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "39%"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "18"
+  },
+  {
+    "Answer": [
+      "155"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "140"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Mexico"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[United Kingdom]"
+  },
+  {
+    "Answer": [
+      "14500"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "100000"
+  },
+  {
+    "Answer": [
+      "Yes",
+      "Parler",
+      "Rumble",
+      "18%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "38"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "D"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "Infographic",
+      "Two"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "2"
+  },
+  {
+    "Answer": [
+      "More"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "less"
+  },
+  {
+    "Answer": [
+      "Other Staff"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Other staff, Part time]"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "51%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "17"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "2.47",
+      "71.02"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "8.5"
+  },
+  {
+    "Answer": [
+      "2.47",
+      "71.02",
+      "Great quality",
+      "7.75"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "0.8"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "Decreasing",
+      "Unanswerable",
+      "Unanswerable",
+      "Unanswerable",
+      "Decrease"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "increase"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "90"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "-$100"
+  },
+  {
+    "Answer": [
+      "[Snake River Chinook salmon, summer steelhead salmon]",
+      "",
+      "2000",
+      ""
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "YES"
+    ],
+    "prediction": "250000"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.8"
+  },
+  {
+    "Answer": [
+      "3.3",
+      "algeria 2.5, greenland 2.5,"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "1973, 191, 1985"
+  },
+  {
+    "Answer": [
+      "2018",
+      "39%",
+      "16%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "YES",
+      "NO",
+      "NO"
+    ],
+    "prediction": "65"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "0.243 million"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.045"
+  },
+  {
+    "Answer": [
+      "0.7 M",
+      "0.02 M",
+      "Yes",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "1.2"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "3014940"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "179584"
+  },
+  {
+    "Answer": [
+      "Competitor",
+      "No"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "Competitor",
+      "No",
+      "The largest group is unsure (33%), but a combined 59% see it as at least a minor threat. Only a small portion (7%) see it as no threat",
+      "Again, the difference is minimal. Both Republicans and Democrats have nearly identical percentages viewing it as a major or minor threat",
+      "The image suggests that regardless of party affiliation, Americans have a largely unified, and somewhat negative, view of Russia, and they perceive the military buildup near Ukraine as a concern"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "russia is a competitor"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "55%",
+      "[Poland, Israel]"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "[Kenya, South Africa]"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "104"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Yes"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "Yes"
+  },
+  {
+    "Answer": [
+      "Environmental sustainability",
+      "-2.9%",
+      "2015 to 2018"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "Higher (PDO)",
+      "48"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "4,024"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Nevada"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[Mississippi, North Dakota]"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Government abuses",
+      "India, Poland, United States"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "India, United States, Philippines, Russia, China"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "59.3"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "4.5"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "557.46",
+      "No",
+      "1970s"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "1970"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "Black Death (Bubonic Plague)",
+      "4",
+      "Covid-19",
+      "681.2%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "30"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Boomers",
+      "14%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "10%"
+  },
+  {
+    "Answer": [
+      "1250"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "23"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.5"
+  },
+  {
+    "Answer": [
+      "Face Recognition Technology",
+      "19",
+      "good"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "31"
+  },
+  {
+    "Answer": [
+      "50463"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "5090"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "D"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Dashboard",
+      "[Line charts, Donut chart, Area chart]",
+      "110.64k",
+      "[91.61k, 37.36k]",
+      "[69.72k, 96.32k]"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "106.99k"
+  },
+  {
+    "Answer": [
+      "[Multiracial, Hispanic, Asian, Black, Asian, NHPI, White]",
+      "58",
+      "Hispanic",
+      "47",
+      "NHPI",
+      "Black"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "Asian"
+  },
+  {
+    "Answer": [
+      "4"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "17.5"
+  },
+  {
+    "Answer": [
+      "Line Chart",
+      "2001",
+      "3.7%",
+      "Yes",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "[N.Y.C., D.C., Baltimore, Phila.]",
+      "20.3",
+      "[N.Y.C., D.C.]",
+      "Phila",
+      "5",
+      "unanswerable",
+      "1.353"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "0.25"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "false"
+  },
+  {
+    "Answer": [
+      "Anticipation of Obama gun-control measures",
+      "Decreased",
+      "36%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "6.5%"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "2011-2020"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[2011-2014]"
+  },
+  {
+    "Answer": [
+      "iPhone",
+      "Mac",
+      "2010",
+      "Services",
+      "Unanswerable"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ],
+    "prediction": "13.5"
+  },
+  {
+    "Answer": [
+      "Below"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "above"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "3"
+  },
+  {
+    "Answer": [
+      "0.5"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.5"
+  },
+  {
+    "Answer": [
+      "6.5k"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.04"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "12%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "17"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Alta"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[B.C., N.W.T.]"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "86%"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Infographic",
+      "59%"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "1.5"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "Deforestation accelerated",
+      "[Lula, Bolsonaro]",
+      "Lula",
+      "2003-2011",
+      "No"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "[Bombers, Fighter/ attack/electronic warfare, attack helicopters]",
+      "Bombers"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "bombers"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.418"
+  },
+  {
+    "Answer": [
+      "65+",
+      "289",
+      "45-64",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "no"
+  },
+  {
+    "Answer": [
+      "1091"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "19"
+  },
+  {
+    "Answer": [
+      "3",
+      "White",
+      "Racine",
+      "Milwaukee",
+      "Milwaukee",
+      "Yes"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "211"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "209"
+  },
+  {
+    "Answer": [
+      "Mars",
+      "6",
+      "Dairy Milk",
+      "[Mars, Galaxy, Twirl]",
+      "8",
+      "9"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "10"
+  },
+  {
+    "Answer": [
+      "12.6%"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.04"
+  },
+  {
+    "Answer": [
+      "409752",
+      "0.2",
+      "Up, Toy Story 3",
+      "Equal",
+      "0"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "1.83"
+  },
+  {
+    "Answer": [
+      "C"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "c"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "5.81 bilion",
+      "4.565 Bilion"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "0.8"
+  },
+  {
+    "Answer": [
+      "1181754.12"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1,817,542.9"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "45.3K"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "$13.62K"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[3]"
+  },
+  {
+    "Answer": [
+      "5.2%"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "8.8"
+  },
+  {
+    "Answer": [
+      "True"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "9%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[4% - 8%]"
+  },
+  {
+    "Answer": [
+      "Lower"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "higher"
+  },
+  {
+    "Answer": [
+      "Lower"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "lower"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "a"
+  },
+  {
+    "Answer": [
+      "2026"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "YES"
+    ],
+    "prediction": "2015"
+  },
+  {
+    "Answer": [
+      "9.38"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.11"
+  },
+  {
+    "Answer": [
+      "85.76%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "[80.03, 25.92, 25.92]"
+  },
+  {
+    "Answer": [
+      "Sales Representative",
+      "Truck Driver",
+      "Chief executing officer or managing director",
+      "General manager"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "sales assistant"
+  },
+  {
+    "Answer": [
+      "B"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "b"
+  },
+  {
+    "Answer": [
+      "27.5%"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1.4"
+  },
+  {
+    "Answer": [
+      "False"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "true"
+  },
+  {
+    "Answer": [
+      "6"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "5"
+  },
+  {
+    "Answer": [
+      "30.0",
+      "R80721",
+      "24.1",
+      "[R80711 Gearbox Bearing Temperature, R80790 Gearbox Bearing Temperature]"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "R80721 and R80736"
+  },
+  {
+    "Answer": [
+      "28670"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "34,000"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "3188.8"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "10000000"
+  },
+  {
+    "Answer": [
+      "2"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "1"
+  },
+  {
+    "Answer": [
+      "No"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "yes"
+  },
+  {
+    "Answer": [
+      "people defined as dependents and working people",
+      "40"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO"
+    ],
+    "prediction": "12"
+  },
+  {
+    "Answer": [
+      "Neonatal encephalopathy due to birth asphyxia and trauma",
+      "Boys",
+      "Unanswerable",
+      "Tuberculosis"
+    ],
+    "Question Type": "Conversational",
+    "Year": [
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "prediction": "neonatal encephalopathy due to birth asphyxia and trauma"
+  },
+  {
+    "Answer": [
+      "0.06425"
+    ],
+    "Question Type": "Factoid",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "0.08"
+  },
+  {
+    "Answer": [
+      "A"
+    ],
+    "Question Type": "Multi Choice",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "d"
+  },
+  {
+    "Answer": [
+      "Unanswerable"
+    ],
+    "Question Type": "Fact Checking",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "unanswerable"
+  },
+  {
+    "Answer": [
+      "6.146"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "640000000"
+  },
+  {
+    "Answer": [
+      "15.72"
+    ],
+    "Question Type": "Hypothetical",
+    "Year": [
+      "NO"
+    ],
+    "prediction": "11.4"
+  }
+]

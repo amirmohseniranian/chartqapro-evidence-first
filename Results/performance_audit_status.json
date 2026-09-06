@@ -1,0 +1,299 @@
+{
+  "t4_present": true,
+  "t4_measured": true,
+  "runtime": {
+    "python": "3.13.15 (main, Aug  6 2026, 11:06:23) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "torch": "2.11.0+cu128",
+    "transformers": "5.16.1",
+    "bitsandbytes": "0.50.2",
+    "accelerate": "1.14.0",
+    "datasets": "4.0.0",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "Pillow": "11.3.0",
+    "pyarrow": "18.1.0",
+    "qwen_vl_utils": "unavailable",
+    "num2words": "0.5.14",
+    "cuda_available": true,
+    "gpu_name": "Tesla T4",
+    "gpu_memory_gb": 14.56,
+    "cuda_version": "12.8",
+    "gpu_compute_capability": "7.5",
+    "cpu_count": 2,
+    "ram_total_gb": 12.67,
+    "ram_available_gb": 9.58,
+    "nvidia_smi": "Tesla T4, 15360 MiB, 580.82.07"
+  },
+  "hotpath_benchmark": null,
+  "suite_timings": {
+    "PRIMARY-QWEN": {
+      "direct": {
+        "experiment_label": "PRIMARY-QWEN-DIRECT",
+        "total": 1948,
+        "completed_before": 0,
+        "remaining": 1948,
+        "batches": 390,
+        "selected_batch_size": 5,
+        "text_batch_size": 16,
+        "elapsed_s": 2026.586923504,
+        "throughput_rows_per_s": 0.9612220316865946,
+        "effective_batch_size_min": 3,
+        "effective_batch_size_median": 5.0,
+        "answer_effective_batch_size_min": null,
+        "answer_effective_batch_size_median": null,
+        "checkpoint_every_batches": 20,
+        "profile": {
+          "enabled": false
+        },
+        "final_gpu_memory": {
+          "allocated_mb": 2312.6,
+          "reserved_mb": 11540.0,
+          "max_allocated_mb": 3598.75,
+          "max_reserved_mb": 11540.0
+        }
+      },
+      "evidence_first": {
+        "experiment_label": "PRIMARY-QWEN-EFR",
+        "total": 1948,
+        "completed_before": 0,
+        "remaining": 1948,
+        "batches": 390,
+        "selected_batch_size": 5,
+        "text_batch_size": 16,
+        "elapsed_s": 8083.734835513999,
+        "throughput_rows_per_s": 0.2409777212683817,
+        "effective_batch_size_min": 3,
+        "effective_batch_size_median": 5.0,
+        "answer_effective_batch_size_min": 6,
+        "answer_effective_batch_size_median": 16.0,
+        "checkpoint_every_batches": 20,
+        "profile": {
+          "enabled": false
+        },
+        "final_gpu_memory": {
+          "allocated_mb": 2312.6,
+          "reserved_mb": 8514.0,
+          "max_allocated_mb": 3595.78,
+          "max_reserved_mb": 8514.0
+        }
+      },
+      "suite_elapsed_s": 10484.624993623998
+    },
+    "SECONDARY-SMOLVLM2": {
+      "direct": {
+        "experiment_label": "SECONDARY-SMOLVLM2-DIRECT",
+        "total": 300,
+        "completed_before": 0,
+        "remaining": 300,
+        "batches": 150,
+        "selected_batch_size": 2,
+        "text_batch_size": 16,
+        "elapsed_s": 398.15913799400005,
+        "throughput_rows_per_s": 0.7534675745769792,
+        "effective_batch_size_min": 2,
+        "effective_batch_size_median": 2.0,
+        "answer_effective_batch_size_min": null,
+        "answer_effective_batch_size_median": null,
+        "checkpoint_every_batches": 20,
+        "profile": {
+          "enabled": false
+        },
+        "final_gpu_memory": {
+          "allocated_mb": 4190.69,
+          "reserved_mb": 5294.0,
+          "max_allocated_mb": 5153.62,
+          "max_reserved_mb": 5294.0
+        }
+      },
+      "evidence_first": {
+        "experiment_label": "SECONDARY-SMOLVLM2-EFR",
+        "total": 300,
+        "completed_before": 0,
+        "remaining": 300,
+        "batches": 150,
+        "selected_batch_size": 2,
+        "text_batch_size": 16,
+        "elapsed_s": 424.2925902170009,
+        "throughput_rows_per_s": 0.7070592485401819,
+        "effective_batch_size_min": 2,
+        "effective_batch_size_median": 2.0,
+        "answer_effective_batch_size_min": 1,
+        "answer_effective_batch_size_median": 1,
+        "checkpoint_every_batches": 20,
+        "profile": {
+          "enabled": false
+        },
+        "final_gpu_memory": {
+          "allocated_mb": 4190.69,
+          "reserved_mb": 5346.0,
+          "max_allocated_mb": 5153.62,
+          "max_reserved_mb": 5346.0
+        }
+      },
+      "suite_elapsed_s": 873.1362203459994
+    }
+  },
+  "cell_timings": [],
+  "batch_tuning": {
+    "Qwen/Qwen2.5-VL-3B-Instruct|Tesla T4|2.11.0+cu128|direct|64|355240d0e246e5d1|v3_fast_cache_text_batch": {
+      "selected_batch_size": 5,
+      "mode": "autotuned_throughput",
+      "candidates": [
+        {
+          "ok": true,
+          "batch_size": 6,
+          "elapsed_s": 16.93531355799996,
+          "peak_reserved_mb": 4574.0,
+          "error": null,
+          "throughput_rows_per_s": 0.35428927722248754
+        },
+        {
+          "ok": true,
+          "batch_size": 5,
+          "elapsed_s": 11.404538129000002,
+          "peak_reserved_mb": 4120.0,
+          "error": null,
+          "throughput_rows_per_s": 0.43842196355902935
+        },
+        {
+          "ok": true,
+          "batch_size": 4,
+          "elapsed_s": 9.339316567999958,
+          "peak_reserved_mb": 3790.0,
+          "error": null,
+          "throughput_rows_per_s": 0.4282968642165442
+        },
+        {
+          "ok": true,
+          "batch_size": 3,
+          "elapsed_s": 7.638842021000073,
+          "peak_reserved_mb": 3496.0,
+          "error": null,
+          "throughput_rows_per_s": 0.39272968229381466
+        },
+        {
+          "ok": true,
+          "batch_size": 2,
+          "elapsed_s": 5.327336675999959,
+          "peak_reserved_mb": 3082.0,
+          "error": null,
+          "throughput_rows_per_s": 0.37542211458309854
+        },
+        {
+          "ok": true,
+          "batch_size": 1,
+          "elapsed_s": 3.317226555000161,
+          "peak_reserved_mb": 2798.0,
+          "error": null,
+          "throughput_rows_per_s": 0.30145664862493887
+        }
+      ],
+      "selection_metric": "rows_per_second"
+    },
+    "Qwen/Qwen2.5-VL-3B-Instruct|Tesla T4|2.11.0+cu128|evidence|256|355240d0e246e5d1|v3_fast_cache_text_batch": {
+      "selected_batch_size": 5,
+      "mode": "autotuned_throughput",
+      "candidates": [
+        {
+          "ok": false,
+          "batch_size": 6,
+          "elapsed_s": 25.220697114999894,
+          "peak_reserved_mb": 12154.0,
+          "error": "memory_headroom_threshold_exceeded",
+          "throughput_rows_per_s": null
+        },
+        {
+          "ok": true,
+          "batch_size": 5,
+          "elapsed_s": 21.536177601999952,
+          "peak_reserved_mb": 4120.0,
+          "error": null,
+          "throughput_rows_per_s": 0.23216747616047131
+        },
+        {
+          "ok": true,
+          "batch_size": 4,
+          "elapsed_s": 18.840363801999956,
+          "peak_reserved_mb": 3790.0,
+          "error": null,
+          "throughput_rows_per_s": 0.2123101253265284
+        },
+        {
+          "ok": true,
+          "batch_size": 3,
+          "elapsed_s": 15.189356147000126,
+          "peak_reserved_mb": 3496.0,
+          "error": null,
+          "throughput_rows_per_s": 0.1975067258260644
+        },
+        {
+          "ok": true,
+          "batch_size": 2,
+          "elapsed_s": 23.368097367000246,
+          "peak_reserved_mb": 3082.0,
+          "error": null,
+          "throughput_rows_per_s": 0.08558677108322658
+        },
+        {
+          "ok": true,
+          "batch_size": 1,
+          "elapsed_s": 8.722297412999978,
+          "peak_reserved_mb": 2798.0,
+          "error": null,
+          "throughput_rows_per_s": 0.11464869318828426
+        }
+      ],
+      "selection_metric": "rows_per_second"
+    }
+  },
+  "measurement_policy": {
+    "gpu_timing": "synchronized wall-clock",
+    "steady_state_warmup_equalized": true,
+    "cold_start_separate": true,
+    "numeric_speedups_are_reported_only_when_benchmark_executed": true,
+    "static_performance_score": {
+      "interpretation": "Static engineering readiness score only; it is NOT an empirical runtime score. Exact runtime/speedup remain UNBENCHMARKED without a real CUDA/T4 execution environment.",
+      "formula": "sum(weight_i * subscore_i / 100), weights sum to 1000",
+      "weights": {
+        "batching": 180,
+        "model_lifecycle": 120,
+        "cpu_io": 140,
+        "transfer_sync": 120,
+        "memory": 100,
+        "kernel_api": 100,
+        "algorithmic_work": 80,
+        "persistence": 60,
+        "correctness_repro": 60,
+        "measurement_hygiene": 40
+      },
+      "subscores": {
+        "original": {
+          "batching": 75,
+          "model_lifecycle": 96,
+          "cpu_io": 72,
+          "transfer_sync": 88,
+          "memory": 90,
+          "kernel_api": 92,
+          "algorithmic_work": 93,
+          "persistence": 91,
+          "correctness_repro": 99,
+          "measurement_hygiene": 98
+        },
+        "optimized": {
+          "batching": 93,
+          "model_lifecycle": 98,
+          "cpu_io": 92,
+          "transfer_sync": 94,
+          "memory": 93,
+          "kernel_api": 95,
+          "algorithmic_work": 93,
+          "persistence": 94,
+          "correctness_repro": 99,
+          "measurement_hygiene": 98
+        }
+      }
+    },
+    "missing_t4_timings": "available"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE",
+  "coverage": {
+    "path": "/content/drive/MyDrive/ChartQAPro_Evidence_First_Reasoning_perfopt_t4/predictions/direct/smolvlm2_2_2b_instruct_direct_subset.jsonl",
+    "file_exists": true,
+    "expected": 300,
+    "records": 300,
+    "compatible_records": 300,
+    "successful_records": 300,
+    "unique_completed_ids": 300,
+    "missing": 0,
+    "unexpected": 0,
+    "duplicate_records_all": 0,
+    "duplicate_successful_records": 0,
+    "failed_or_non_ok_records": 0,
+    "incompatible_records": 0
+  },
+  "scores": {
+    "Multi Choice": 0.35,
+    "Fact Checking": 0.4666666666666667,
+    "Hypothetical": 0.21553030303030302,
+    "Factoid": 0.15303030303030302,
+    "Conversational": 0.1725,
+    "Overall": 0.27154545454545453
+  }
+}
